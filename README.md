@@ -4,10 +4,14 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 ## Contents
 
 1. [Introduction](#introduction);
-2. [Conclusion](#conclusion).
+2. [Useful links](#useful_links);
+3. [Conclusion](#conclusion).
 
 <a name="introduction"></a>
 ## Introduction
+
+<a name="useful_links"></a>
+## Useful links
 
 <a name="conclusion"></a>
 ## Conclusion
