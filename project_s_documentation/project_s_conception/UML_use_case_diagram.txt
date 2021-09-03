@@ -1,0 +1,17 @@
+@startuml
+"Pose une question au robot" as (Question_au_robot)
+"Réponds à la question posée par le prospect" as (Reponds_au_prospect)
+"Surveille et s'occupe du robot" as (Surveille_et_s_occupe_du_robot)
+"Active/réactive l'application de présentation de l'école sur le robot" as (Active_l_application_de_presentation_de_l_ecole)
+"Mets à jour ses informations selon ce que demande le responsable IMERIR" as (Mise_a_jour_robot)
+
+"Robot Pepper" as Robot_Pepper
+"Responsable IMERIR" as Responsable_IMERIR
+
+Prospect --> (Question_au_robot)
+Robot_Pepper --> (Mise_a_jour_robot)
+Robot_Pepper --> (Reponds_au_prospect)
+Responsable_IMERIR --> (Surveille_et_s_occupe_du_robot)
+Responsable_IMERIR --> (Active_l_application_de_presentation_de_l_ecole)
+
+@enduml

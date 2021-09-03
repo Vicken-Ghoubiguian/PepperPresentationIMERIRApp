@@ -1,0 +1,10 @@
+﻿@startuml
+Imérien -> robot_Pepper: Active l'application sur le robot
+Prospect -> robot_Pepper: Pose sa question
+robot_Pepper -> Prospect: Répond à sa question
+robot_Pepper -> Prospect: Demande de continuer sa présentation
+Prospect -> robot_Pepper: Envoie sa réponse ("Oui" ou "Non")
+robot_Pepper -> Prospect: Envoie un message de remerciements, d'information et d'au revoir
+robot_Pepper -> robot_Pepper: Termine l'application et revient au menu principal
+Imérien -> robot_Pepper: Réactive l'application sur le robot
+@enduml
