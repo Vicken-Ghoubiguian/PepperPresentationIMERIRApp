@@ -6,7 +6,7 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 1. [Introduction](#introduction);
 2. [Application's definition](#application_s_definition);
 3. [Project's structure](#project_s_structure);
-4. []();
+4. [Project's components](#project_s_components);
 5. [How to install it ?](#how_to_install_it);
 6. []();
 7. [Useful links](#useful_links);
