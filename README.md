@@ -4,7 +4,7 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 ## Contents
 
 1. [Introduction](#introduction);
-2. [Conclusion](#conclusion)
+2. [Conclusion](#conclusion).
 
 <a name="introduction"></a>
 ## Introduction
