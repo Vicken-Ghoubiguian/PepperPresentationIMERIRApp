@@ -1,4 +1,4 @@
-# PepperIMERIRApp
+# PepperPresentationIMERIRApp
 Application developed for the Pepper robot, manufactured and marketed by the company Softbank Robotics, to present the IMERIR IT and robotics school during various events (trade fairs, open houses...)...
 
 ## Contents
