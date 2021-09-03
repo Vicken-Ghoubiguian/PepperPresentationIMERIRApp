@@ -21,6 +21,9 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 <a name="project_s_structure"></a>
 ## Project's structure
 
+<a name="how_to_install_it"></a>
+## How to install it ?
+
 <a name="useful_links"></a>
 ## Useful links
 
