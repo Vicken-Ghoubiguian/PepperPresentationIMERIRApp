@@ -5,7 +5,7 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 
 1. [Introduction](#introduction);
 2. [Application's definition](#application_s_definition);
-3. [Project's structure](#project_s_structure);
+3. [Git folder's structure](#git_folder_s_structure);
 4. [Project's components](#project_s_components);
 5. [How to install it ?](#how_to_install_it);
 6. []();
@@ -18,8 +18,11 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 <a name="application_s_definition"></a>
 ## Application's definition
 
-<a name="project_s_structure"></a>
-## Project's structure
+<a name="git_folder_s_structure"></a>
+## Git folder's structure
+
+<a name="project_s_components"></a>
+## Project's components
 
 <a name="how_to_install_it"></a>
 ## How to install it ?
