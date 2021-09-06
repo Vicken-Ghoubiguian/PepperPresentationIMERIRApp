@@ -16,7 +16,7 @@
 
 <hr>
 
-
+1. [Message de remerciements d information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir),
 
 <a name="qui_sommes_nous"></a>
 ## Qui sommes nous ?
@@ -99,3 +99,5 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 ## Message de remerciements, d'information et d'au revoir
 
 Merci de m'avoir laissé te présenter l'IMERIR. J'espère que ça a attisé ta curiosité dans les domaines de l'informatique et de la robotique. Si tu es intéressé, tu peux demander à mes collègues humains des précisions supplémentaires, les plaquettes de présentation détaillée de chacune des formations dispensées par l'école, voire aussi un dossier d'inscription pour devenir étudiant de notre école et toutes informations supplémentaires. Tu peux aussi à tout moment demander les renseignements et les informations que tu veux, soit en te rendant sur le site officiel de l'IMERIR (https://www.imerir.com/), soit en téléphonant au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Au revoir, j'espère te revoir très vite.
+
+__Note:__ ce message est celui qui sera énoncé par Pepper dès que le programme se termine. Il correspond donc au point "fin du programme" du grafcet (voir [Ici](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/project_s_documentation/project_s_conception/Grafcet_of_IMERIR_presentation_app%20-%20final_version.png)).
