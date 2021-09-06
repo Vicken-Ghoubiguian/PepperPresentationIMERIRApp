@@ -4,7 +4,7 @@
 
 1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Nos formations](#nos_formations),
-3. [L’apprentissage](#l_apprentissage),
+3. [L’alternance](#l_alternance),
 4. [L’admission](#l_admission),
 5. [Erasmus](#erasmus),
 6. [Les universités et écoles partenaires de l'IMERIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR),
@@ -23,10 +23,10 @@ Aujourd’hui, L’IMERIR dispense 3 formations dans les domaines de l’informa
 
 ### Quel diplôme vous intéresse ?
 
-<a name="l_apprentissage"></a>
-## L’apprentissage
+<a name="l_alternance"></a>
+## L’alternance
 
-Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professionnalisation de ses étudiants vers des postes d'ingénieurs, de chefs de projet et de managers. C'est pour cette raison que toutes les formations dispensées par l'IMERIR se font en apprentissage. L’apprentissage est un dispositif de formation en alternance combinant l’acquisition de nouveaux savoirs et de nouvelles compétences au sein de l’école à une mise en pratique directe dans l’entreprise en qualité de salarié. L'apprentissage, ce n'est que des avantages ! Pour l'étudiant les frais de scolarité sont gratuits et vous êtes salarié de l'entreprise, ce qui fait que vous touchez votre salaire et bénéficiez des avantages accordés par l'entreprise. Pour l'entreprise cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des couts de recrutement maitrisés. Du gagnant-gagnant en somme !
+Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professionnalisation de ses étudiants vers des postes d'ingénieurs, de chefs de projet et de managers. C'est pour cette raison que toutes les formations dispensées par l'IMERIR se font en alternance. L’alternance est un dispositif de formation en alternance combinant l’acquisition de nouveaux savoirs et de nouvelles compétences au sein de l’école à une mise en pratique directe dans l’entreprise en qualité de salarié. L'alternance, ce n'est que des avantages ! Pour l'étudiant les frais de scolarité sont gratuits et vous êtes salarié de l'entreprise, ce qui fait que vous touchez votre salaire et bénéficiez des avantages accordés par l'entreprise. Pour l'entreprise cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des couts de recrutement maitrisés. Du gagnant-gagnant en somme !
 
 ### L'IMERIR organise des sessions ARE. Voulez-vous en savoir plus ?
 
