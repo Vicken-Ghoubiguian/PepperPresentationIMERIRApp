@@ -21,10 +21,14 @@ L’IMERIR, est une école supérieure de la CCI (pour 'Chambre de commerce et d
 
 Aujourd’hui, L’IMERIR dispense 3 formations dans les domaines de l’informatique et de la robotique. Sa principale est "Manager de systèmes informatique et robotique" (en abrégé MSIR). C'est une formation Bac +5 qui se déroule en 3 ans après un BTS, un DUT ou une prépa scientifique et technique, qui est polyvalente car conjuguant l'acquisition des compétences en informatique, en robotique et en management pour permettre aux étudiants de diriger n’importe quel projet informatique et robotique dès l’obtention de leur diplôme. Pour tous ceux qui ne disposent pas du bagage requis: pas de panique ! L'IMERIR dispose d'une formation Bac +2 intitulée "Analyste développeur d'applications informatiques" qui se déroule en 2 ans après un baccalauréat général, technologique ou professionnel et qui permet aux étudiants l'acquisition des bases en informatique, en conception assistée par ordinateur (CAO), en mécanique et en électronique, tout en se professionnalisant. Ces 2 formations sont certifiantes par un diplôme inscrit au Répertoire National de la Certification Professionnelle (RNCP), et sont donc reconnues par l’Etat. L'IMERIR dispose également d'une troisième formation, la "Licence informatique spécialité robotique de prototypage", formation Bac +3 qui se déroule après l'obtention d'un diplôme ou d'un titre professionnel de niveau Bac +2. Cette formation couvre les principaux domaines de l'informatique (comme le développement, les réseaux ou encore l'architecture des machines) mais avec une spécialisation dans les domaines de la robotique. Point intéressant ! Il vous est possible de valider les formations "Manager de systèmes informatique et robotique" et "Licence informatique spécialité robotique de prototypage" en validation des acquis de l'experience (en abrégé VAE). Et ça, c'est cool comme Ra's al Ghul !
 
+### Quel diplôme vous intéresse ?
+
 <a name="l_apprentissage"></a>
 ## L’apprentissage
 
 Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professionnalisation de ses étudiants vers des postes d'ingénieurs, de chefs de projet et de managers. C'est pour cette raison que toutes les formations dispensées par l'IMERIR se font en apprentissage. L’apprentissage est un dispositif de formation en alternance combinant l’acquisition de nouveaux savoirs et de nouvelles compétences au sein de l’école à une mise en pratique directe dans l’entreprise en qualité de salarié. L'apprentissage, ce n'est que des avantages ! Pour l'étudiant les frais de scolarité sont gratuits et vous êtes salarié de l'entreprise, ce qui fait que vous touchez votre salaire et bénéficiez des avantages accordés par l'entreprise. Pour l'entreprise cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des couts de recrutement maitrisés. Du gagnant-gagnant en somme !
+
+### L'IMERIR organise des sessions ARE. Voulez-vous en savoir plus ?
 
 <a name="l_admission"></a>
 ## L’admission
@@ -35,6 +39,8 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 ## Erasmus
 
 Les imériens étudiants dans la formation "Manager de systèmes informatique et robotique" peuvent partir à l’étranger dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, ils continuent d'étudier mais dans une université ou école d’accueil tout en perfectionnant leur anglais, en découvrant de nouveaux pays ainsi que de nouvelles cultures et tout en nouant de nouvelles relations. Quelle chance ! Non ? L’IMERIR est partenaire de plusieurs écoles et universités dans toute l’Europe et avec lequel de riches échanges se font. Il y a par exemple l’université des sciences appliquées de Laponie (en abrégé LAPIN AMK) en Finlande, l'université des sciences appliquée HAMK toujours en Finlande, l'Algebra University College en Croatie ou encore de l’université d’Innopolis en Russie. Quelle aventure ! L'Erasmus a aussi son pendant pour les jeunes entrepreneurs, simplement intitulé "Erasmus pour Jeunes Entrepreneurs" et qui leur permet d'acquérir toutes les compétences requises pour créer et/ou gérer une entreprise en Europe. Les imériens jeunes entrepreneurs pourront alors acquérir et échanger des connaissances et des idées entrepreneuriales avec un entrepreneur expérimenté en Europe et auprès duquel ils séjourneront pendant une période allant de 1 à 6 mois. Quelle formidable occasion ! Non ?
+
+### Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?
 
 <a name="les_universites_et_ecoles_partenaires_de_l_IMERIR"></a>
 ## Les universités et écoles partenaires de l'IMERIR
@@ -62,6 +68,8 @@ Décidément, l'Erasmus c'est des opportunités européennes pour tous les gouts
 ## Le Fablab
 
 L’IMERIR dispose d’un fablab, un espace numérique à des fins d’innovation, de prototypage ainsi que de production à petite échelle et qui permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes (comme moi, Pepper), des cobots et des robots industriels. Dans cet espace, les ressources matérielles, logicielles et humaines sont mutualisées pour prototyper, expérimenter, vous accompagner dans votre projet professionnel et travailler sur les projets école. Plus votre projet est ambitieux et innovant, plus il est intéressant et plus le Fablab se chargera de vous accompagner. J’ai tout dit.
+
+### Voulez-vous en savoir plus ?
 
 <a name="message_de_remerciements_d_information_et_d_au_revoir"></a>
 ## Message de remerciements, d'information et d'au revoir
