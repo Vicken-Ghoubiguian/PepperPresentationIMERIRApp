@@ -14,6 +14,10 @@
 10. [L’admission](#l_admission),
 11. [Nous contacter](#nous_contacter)
 
+<hr>
+
+
+
 <a name="qui_sommes_nous"></a>
 ## Qui sommes nous ?
 
@@ -88,6 +92,8 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 
 <a name="nous_contacter"></a>
 ## Nous contacter
+
+<hr>
 
 <a name="message_de_remerciements_d_information_et_d_au_revoir"></a>
 ## Message de remerciements, d'information et d'au revoir
