@@ -33,10 +33,15 @@ Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professi
 
 ### L'IMERIR organise des sessions ARE. Voulez-vous en savoir plus ?
 
-<a name="l_admission"></a>
-## L’admission
+<a name="professionnels"></a>
+## Professionnels
 
-Pour l’admission, c’est très simple. Il faut tout d’abord remplir le dossier d’inscription. Vous pouvez le trouver sur sur le site officiel de l'IMERIR ou alors en demander à mes collègues humains s’il leur en reste. Ensuite, vous devez vous rendre à une des sessions d’admission organisées par l’école. Le principe est très simple: vous venez dans les locaux de l’IMERIR pour passer des tests mesurant votre niveau en mathématiques, en français, en anglais et en logique. Votre motivation est ensuite évaluée par un entretien individuel avec un des responsables pédagogiques de l’école. À l'issue de cette séance, l’école reviendra vers vous en cours de journée pour communiquer sa décision. Simple ! Non ? Et ce n’est pas fini. Une fois recruté, vous participez à des journées ARE (pour 'Aide à la recherche d'entreprise'). Vous serrez alors coaché par un ou plusieurs professionnels pour faire un CV et une lettre de motivation en béton. Vous apprendrez également comment vous comporter et réagir face à un recruteur pour mettre toutes les chances de votre côté. Voilà ! Vous savez tout.
+<a name="le_fablab"></a>
+## Le Fablab
+
+L’IMERIR dispose d’un fablab, un espace numérique à des fins d’innovation, de prototypage ainsi que de production à petite échelle et qui permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes (comme moi, Pepper), des cobots et des robots industriels. Dans cet espace, les ressources matérielles, logicielles et humaines sont mutualisées pour prototyper, expérimenter, vous accompagner dans votre projet professionnel et travailler sur les projets école. Plus votre projet est ambitieux et innovant, plus il est intéressant et plus le Fablab se chargera de vous accompagner. J’ai tout dit.
+
+### Voulez-vous en savoir plus ?
 
 <a name="erasmus"></a>
 ## Erasmus
@@ -67,12 +72,22 @@ Alors, les écoles et universités partenaires de l'IMERIR dans le cadre d'Erasm
 
 Décidément, l'Erasmus c'est des opportunités européennes pour tous les gouts.
 
-<a name="le_fablab"></a>
-## Le Fablab
+<a name="remise_des_diplomes"></a>
+## Remise des diplômes
 
-L’IMERIR dispose d’un fablab, un espace numérique à des fins d’innovation, de prototypage ainsi que de production à petite échelle et qui permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes (comme moi, Pepper), des cobots et des robots industriels. Dans cet espace, les ressources matérielles, logicielles et humaines sont mutualisées pour prototyper, expérimenter, vous accompagner dans votre projet professionnel et travailler sur les projets école. Plus votre projet est ambitieux et innovant, plus il est intéressant et plus le Fablab se chargera de vous accompagner. J’ai tout dit.
+<a name="association_des_anciens"></a>
+## Association des anciens
 
-### Voulez-vous en savoir plus ?
+<a name="s_inscrire"></a>
+## S'inscrire
+
+<a name="l_admission"></a>
+## L’admission
+
+Pour l’admission, c’est très simple. Il faut tout d’abord remplir le dossier d’inscription. Vous pouvez le trouver sur sur le site officiel de l'IMERIR ou alors en demander à mes collègues humains s’il leur en reste. Ensuite, vous devez vous rendre à une des sessions d’admission organisées par l’école. Le principe est très simple: vous venez dans les locaux de l’IMERIR pour passer des tests mesurant votre niveau en mathématiques, en français, en anglais et en logique. Votre motivation est ensuite évaluée par un entretien individuel avec un des responsables pédagogiques de l’école. À l'issue de cette séance, l’école reviendra vers vous en cours de journée pour communiquer sa décision. Simple ! Non ? Et ce n’est pas fini. Une fois recruté, vous participez à des journées ARE (pour 'Aide à la recherche d'entreprise'). Vous serrez alors coaché par un ou plusieurs professionnels pour faire un CV et une lettre de motivation en béton. Vous apprendrez également comment vous comporter et réagir face à un recruteur pour mettre toutes les chances de votre côté. Voilà ! Vous savez tout.
+
+<a name="nous_contacter"></a>
+## Nous contacter
 
 <a name="message_de_remerciements_d_information_et_d_au_revoir"></a>
 ## Message de remerciements, d'information et d'au revoir
