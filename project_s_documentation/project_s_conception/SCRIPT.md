@@ -16,7 +16,8 @@
 
 <hr>
 
-1. [Message de remerciements d information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir),
+1. [Message de bienvenue au prospect](#message_de_bienvenue_au_prospect),
+2. [Message de remerciements d information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir),
 
 <a name="qui_sommes_nous"></a>
 ## Qui sommes nous ?
@@ -94,6 +95,9 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 ## Nous contacter
 
 <hr>
+
+<a name="message_de_bienvenue_au_prospect"></a>
+## Message de bienvenue au prospect
 
 <a name="message_de_remerciements_d_information_et_d_au_revoir"></a>
 ## Message de remerciements, d'information et d'au revoir
