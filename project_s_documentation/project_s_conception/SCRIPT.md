@@ -5,11 +5,14 @@
 1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Nos formations](#nos_formations),
 3. [L’alternance](#l_alternance),
-4. [L’admission](#l_admission),
-5. [Erasmus](#erasmus),
-6. [Les universités et écoles partenaires de l'IMERIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR),
-7. [Le Fablab](#le_fablab),
-8. [Message de remerciements, d'information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir)
+4. [Professionnels](#professionnels),
+5. [Le Fablab](#le_fablab),
+6. [Erasmus](#erasmus),
+7. [Remise des diplômes](#remise_des_diplomes),
+8. [Association des anciens](#association_des_anciens),
+9. [S'inscrire](#s_inscrire),
+10. [L’admission](#l_admission),
+11. [Nous contacter](#nous_contacter)
 
 <a name="qui_sommes_nous"></a>
 ## Qui sommes nous ?
