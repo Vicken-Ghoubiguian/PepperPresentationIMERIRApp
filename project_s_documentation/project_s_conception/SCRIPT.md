@@ -39,6 +39,24 @@ Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’inform
 <a name="quel_diplome_vous_interesse"></a>
 ### Quel diplôme vous intéresse ?
 
+<a name=""></a>
+#### Cybersécurité
+
+<a name=""></a>
+#### Intelligence artificielle
+
+<a name=""></a>
+#### Internet des objets
+
+<a name=""></a>
+#### Robotique d'innovation
+
+<a name=""></a>
+#### Prépa analyste développeur d’applications informatiques
+
+<a name=""></a>
+#### License informatique spécialité robotique de prototypage
+
 <a name="l_alternance"></a>
 ## L’alternance
 
