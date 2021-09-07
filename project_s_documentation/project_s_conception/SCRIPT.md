@@ -19,7 +19,8 @@
     * [Voulez-vous en savoir plusse ?](#voulez_vous_en_savoir_plus).
         1. [Informations supplémentaires sur le fablab](#informations_supplementaires_sur_le_fablab).
 6. [Erasmus](#erasmus),
-    * [Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien),
+    * [Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
+        1. [Les universités et écoles partenaires de l'IMÉRIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR).
 7. [Remise des diplômes](#remise_des_diplomes),
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
