@@ -19,7 +19,7 @@
     * [Voulez-vous en savoir plusse ?](#voulez_vous_en_savoir_plus).
         1. [Informations supplémentaires sur le fablab](#informations_supplementaires_sur_le_fablab).
 6. [Erasmus](#erasmus),
-    * [Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
+    * [Que voulez-vous faire maintenant ? Vous inscrire ? voir les partenaires ? ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
         1. [Les universités et écoles partenaires de l'IMÉRIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR).
 7. [Remise des diplômes](#remise_des_diplomes),
     * [Souhaitez-vous voir des photos et vidéos de cérémonies ?](#souhaitez_vous_voir_des_photos_et_videos_de_ceremonies).
@@ -102,7 +102,7 @@ L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’
 Les imériens étudiants dans la formation "Manager de systèmes informatique et robotique" peuvent partir à l’étranger, dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, ils continuent d'étudier, mais dans une université ou une école d’accueil, tout en perfectionnant leur anglais, en découvrant de nouveaux pays, ainsi que de nouvelles cultures, tout en nouant de nouvelles relations. Quelle chance ! Non ? L’IMÉRIR est partenaire de plusieurs écoles et universités dans toute l’Europe, et avec lequel de riches échanges se font. Par exemple, il y a l’université des sciences appliquées de Laponie en Finlande, l'université des sciences appliquée HAMK, aussi en Finlande, l'Algebra University College en Croatie, ou encore de l’université d’Innopolis en Russie. Quelle aventure ! L'Erasmus a aussi son pendant pour les jeunes entrepreneurs, simplement intitulé "Erasmus pour Jeunes Entrepreneurs". Cela leur permet d'acquérir toutes les compétences pour créer et gérer une entreprise en Europe. Les imériens jeunes entrepreneurs pourront alors acquérir, et échanger des connaissances, et des idées entrepreneuriales, avec un entrepreneur expérimenté en Europe, et auprès duquel, ils séjourneront pendant une période allant de 1 à 6 mois. Quelle formidable occasion !
 
 <a name="que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien"></a>
-### Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?
+### Que voulez-vous faire maintenant ? Vous inscrire ? voir les partenaires ? ou rien ?
 
 <a name="les_universites_et_ecoles_partenaires_de_l_IMERIR"></a>
 #### Les universités et écoles partenaires de l'IMÉRIR
