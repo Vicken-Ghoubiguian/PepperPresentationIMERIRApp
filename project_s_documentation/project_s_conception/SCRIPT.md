@@ -26,6 +26,8 @@
         1. [Remise des diplômes](#remise_des_diplomes).
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
+    * [Remplir le formulaire ?](#remplir_le_formulaire).
+        1. [Remplir le formulaire d'inscription et l'envoyer](#remplir_le_formulaire_d_inscription_et_l_envoyer).
 10. [L’admission](#l_admission),
 11. [Nous contacter](#nous_contacter)
     * [Souhaitez-vous prendre contact avec nous ?](#souhaitez_vous_prendre_contact_avec_nous).
