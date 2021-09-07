@@ -75,7 +75,7 @@ Alors, les écoles et universités partenaires de l'IMÉRIR dans le cadre d'Eras
 * __l'Université Babeș-Bolyai__ à Cluj-Napoca en Roumanie,
 * __l'Université d'Innopolis__ à Innopolis en Russie.
 
-Décidément, l'Erasmus c'est des opportunités européennes pour tous les gouts.
+Décidément, l'Erasmus c'est des opportunités européennes pour tous les goûts.
 
 <a name="remise_des_diplomes"></a>
 ## Remise des diplômes
