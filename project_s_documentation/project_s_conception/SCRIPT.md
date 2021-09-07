@@ -22,6 +22,8 @@
     * [Que voulez-vous faire maintenant ? Vous inscrire, voir les partenaires ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
         1. [Les universités et écoles partenaires de l'IMÉRIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR).
 7. [Remise des diplômes](#remise_des_diplomes),
+    * [Souhaitez-vous voir des photos et vidéos de cérémonies ?](#souhaitez_vous_voir_des_photos_et_videos_de_ceremonies).
+        1. [Remise des diplômes](#remise_des_diplomes).
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
 10. [L’admission](#l_admission),
