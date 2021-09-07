@@ -127,6 +127,12 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="remise_des_diplomes"></a>
 ## Remise des diplômes
 
+<a name="souhaitez_vous_voir_des_photos_et_videos_de_ceremonies"></a>
+### Souhaitez-vous voir des photos et vidéos de cérémonies ?
+
+<a name="remise_des_diplomes"></a>
+#### Remise des diplômes
+
 <a name="association_des_anciens"></a>
 ## Association des anciens
 
