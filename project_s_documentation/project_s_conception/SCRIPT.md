@@ -23,7 +23,7 @@
         1. [Les universités et écoles partenaires de l'IMÉRIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR).
 7. [Remise des diplômes](#remise_des_diplomes),
     * [Souhaitez-vous voir des photos et vidéos de cérémonies ?](#souhaitez_vous_voir_des_photos_et_videos_de_ceremonies).
-        1. [Remise des diplômes](#remise_des_diplomes).
+        1. [Détails des remises des diplômes](#details_des_remise_des_diplomes).
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
     * [Remplir le formulaire ?](#remplir_le_formulaire).
@@ -132,8 +132,8 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="souhaitez_vous_voir_des_photos_et_videos_de_ceremonies"></a>
 ### Souhaitez-vous voir des photos et vidéos de cérémonies ?
 
-<a name="remise_des_diplomes"></a>
-#### Remise des diplômes
+<a name="details_des_remise_des_diplomes"></a>
+#### Détails des remises des diplômes
 
 <a name="association_des_anciens"></a>
 ## Association des anciens
