@@ -4,6 +4,13 @@
 
 1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Nos formations](#nos_formations),
+    * [Quel diplôme vous intéresse ?](#quel_diplome_vous_interesse),
+        1. [Cybersécurité](),
+        2. [Intelligence artificielle](),
+        3. [Internet des objets](),
+        4. [Robotique d'innovation](),
+        5. [Prépa](),
+        6. [License informatique spécialité robotique de prototypage]().
 3. [L’alternance](#l_alternance),
 4. [Professionnels](#professionnels),
 5. [Le Fablab](#le_fablab),
@@ -29,6 +36,7 @@ L’IMÉRIR est une école supérieure de la C C I, pour 'Chambre de commerce et
 
 Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’informatique et de la robotique. Sa principale est "Manager de systèmes informatique et robotique" (en abrégé MSIR). C'est une formation Bac +5 qui se déroule en 3 ans après un BTS, un DUT ou une prépa scientifique et technique, qui est polyvalente car conjuguant l'acquisition des compétences en informatique, en robotique et en management pour permettre aux étudiants de diriger n’importe quel projet informatique et robotique dès l’obtention de leur diplôme. Pour tous ceux qui ne disposent pas du bagage requis: pas de panique ! L'IMÉRIR dispose d'une formation Bac +2 intitulée "Analyste développeur d'applications informatiques" qui se déroule en 2 ans après un baccalauréat général, technologique ou professionnel et qui permet aux étudiants l'acquisition des bases en informatique, en conception assistée par ordinateur (CAO), en mécanique et en électronique, tout en se professionnalisant. Ces 2 formations sont certifiantes par un diplôme inscrit au Répertoire National de la Certification Professionnelle (RNCP), et sont donc reconnues par l’Etat. L'IMÉRIR dispose également d'une troisième formation, la "Licence informatique spécialité robotique de prototypage", formation Bac +3 qui se déroule après l'obtention d'un diplôme ou d'un titre professionnel de niveau Bac +2. Cette formation couvre les principaux domaines de l'informatique (comme le développement, les réseaux ou encore l'architecture des machines) mais avec une spécialisation dans les domaines de la robotique. Point intéressant ! Il vous est possible de valider les formations "Manager de systèmes informatique et robotique" et "Licence informatique spécialité robotique de prototypage" en validation des acquis de l'experience (en abrégé VAE). Et ça, c'est cool comme Ra's al Ghul !
 
+<a name="quel_diplome_vous_interesse"></a>
 ### Quel diplôme vous intéresse ?
 
 <a name="l_alternance"></a>
