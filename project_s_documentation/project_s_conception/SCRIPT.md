@@ -26,7 +26,7 @@
         1. [Détails des remises des diplômes](#details_des_remise_des_diplomes).
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
-    * [Remplir le formulaire ?](#remplir_le_formulaire).
+    * [Souhaitez-vous remplir le formulaire d'inscription ?](#souhaitez_vous_remplir_le_formulaire).
         1. [Remplir le formulaire d'inscription et l'envoyer](#remplir_le_formulaire_d_inscription_et_l_envoyer).
 10. [L’admission](#l_admission),
 11. [Nous contacter](#nous_contacter)
@@ -141,8 +141,8 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="s_inscrire"></a>
 ## S'inscrire
 
-<a name="remplir_le_formulaire"></a>
-### Souhaitez-vous voir des photos et vidéos de cérémonies ?
+<a name="souhaitez_vous_remplir_le_formulaire"></a>
+### Souhaitez-vous remplir le formulaire d'inscription ?
 
 <a name="remplir_le_formulaire_d_inscription_et_l_envoyer"></a>
 #### Remplir le formulaire d'inscription et l'envoyer
