@@ -58,24 +58,24 @@ Les imériens étudiants dans la formation "Manager de systèmes informatique et
 <a name="les_universites_et_ecoles_partenaires_de_l_IMERIR"></a>
 ## Les universités et écoles partenaires de l'IMÉRIR
 
-Alors, les écoles et universités partenaires de l'IMÉRIR dans le cadre d'Erasmus sont:
+Alors, les écoles et universités partenaires de l'IMÉRIR, dans le cadre d'Erasmus, sont:
 
-* __l'Université de Bonn__ en Allemagne,
-* __l'Algebra university college__ à Zagreb en Croatie,
-* __l'Université d'Aalborg__ au Danemark,
-* __l'Université de Gérone__ en Espagne,
-* __l'Université de Tallinn__ en Estonie,
-* __l'Université des sciences appliquées HAMK__ à Hämeenlinna en Finlande,
-* __l'Université des sciences appliquées de Laponie__ à Rovaniemi en Finlande,
-* __l'Université d'Óbuda__ à Budapest en Hongrie,
-* __l'Institute of Technology, Blanchardstown (ITB)__ à Dublin en Irlande,
-* __la Hanze University of Applied Sciences__ à Groningue aux Pays-Bas,
-* __l’École polytechnique de Cracovie__ à Cracovie en Pologne,
-* __Institut polytechnique de Bragance__ à Bragance au Portugal,
-* __l'Université Babeș-Bolyai__ à Cluj-Napoca en Roumanie,
-* __l'Université d'Innopolis__ à Innopolis en Russie.
+* __l'Université de Bonn__, à Bonn, en Allemagne,
+* __l'Algebra university college__, à Zagreb, en Croatie,
+* __l'Université d'Aalborg__, à Aalborg, au Danemark,
+* __l'Université de Gérone__, à Gérone, en Espagne,
+* __l'Université de Tallinn__, à Tallinn, en Estonie,
+* __l'Université des sciences appliquées HAMK__, à Hämeenlinna, en Finlande,
+* __l'Université des sciences appliquées de Laponie__, à Rovaniemi, en Finlande,
+* __l'Université d'Óbuda__, à Budapest, en Hongrie,
+* __l'Institute of Technology, Blanchardstown (ITB)__, à Dublin, en Irlande,
+* __la Hanze University of Applied Sciences__, à Groningue, aux Pays-Bas,
+* __l’École polytechnique de Cracovie__, à Cracovie, en Pologne,
+* __l'Institut polytechnique de Bragance__, à Bragance, au Portugal,
+* __l'Université Babeș-Bolyai__, à Cluj-Napoca, en Roumanie,
+* __l'Université d'Innopolis__, à Innopolis, en Russie.
 
-Décidément, l'Erasmus c'est des opportunités européennes pour tous les goûts.
+Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les goûts.
 
 <a name="remise_des_diplomes"></a>
 ## Remise des diplômes
