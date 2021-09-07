@@ -12,9 +12,11 @@
         5. [Prépa analyste développeur d’applications informatiques](#prepa_analyste_developpeur_d_applications_informatiques),
         6. [License informatique spécialité robotique de prototypage](#license_informatique_specialite_robotique_de_prototypage).
 3. [L’alternance](#l_alternance),
+    * [L'IMÉRIR organise des sessions A R E; Voulez-vous en savoir plusse ?](#alternance_en_savoir_plus).
+        1. [Sessions ARE (aide à la recherche d'entreprises)](#sessions_are).
 4. [Professionnels](#professionnels),
 5. [Le Fablab](#le_fablab),
-    * [Voulez-vous en savoir plus ?](#voulez_vous_en_savoir_plus).
+    * [Voulez-vous en savoir plusse ?](#voulez_vous_en_savoir_plus).
         1. [Informations supplémentaires sur le fablab](#informations_supplementaires_sur_le_fablab).
 6. [Erasmus](#erasmus),
 7. [Remise des diplômes](#remise_des_diplomes),
@@ -64,7 +66,11 @@ Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’inform
 
 Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la professionnalisation de ses étudiants, vers des postes d'ingénieurs, de chefs de projet, et de managers. C'est pour cette raison, que toutes les formations dispensées par l'IMÉRIR, se font en alternance. L’alternance est un dispositif de formation, combinant l’acquisition de nouveaux savoirs, et de nouvelles compétences au sein de l’école, à une mise en pratique directe dans l’entreprise en qualité de salarié. L'alternance, ce n'est que des avantages ! Pour l'étudiant, les frais de scolarité sont gratuits, et tu es salarié de l'entreprise, ce qui fait que tu touches ton salaire, et bénéficies des avantages accordés par l'entreprise. Pour l'entreprise, cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des coûts de recrutement maitrisés. Du gagnant-gagnant, en somme ! Il existe 2 types de contrat de travail en alternance: le contrat d'apprentissage, et le contrat de professionnalisation. Les différences entre les deux sont purement administratives. Donc vas-y, go !
 
-### L'IMÉRIR organise des sessions ARE. Voulez-vous en savoir plus ?
+<a name="alternance_en_savoir_plus"></a>
+### L'IMÉRIR organise des sessions ARE; Voulez-vous en savoir plusse ?
+
+<a name="sessions_are"></a>
+#### Sessions ARE (aide à la recherche d'entreprises)
 
 <a name="professionnels"></a>
 ## Professionnels
@@ -75,7 +81,7 @@ Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la profess
 L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !
 
 <a name="voulez_vous_en_savoir_plus"></a>
-### Voulez-vous en savoir plus ?
+### Voulez-vous en savoir plusse ?
 
 <a name="informations_supplementaires_sur_le_fablab"></a>
 #### Informations supplémentaires sur le fablab
