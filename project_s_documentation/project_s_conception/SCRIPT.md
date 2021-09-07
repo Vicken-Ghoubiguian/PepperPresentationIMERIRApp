@@ -171,7 +171,7 @@ Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répèt
 <a name="adresse_postale"></a>
 #### Adresse postale
 
-
+Alors, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.  
 
 <hr>
 
