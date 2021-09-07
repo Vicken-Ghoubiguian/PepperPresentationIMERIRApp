@@ -168,7 +168,7 @@ Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répèt
 <a name="formulaire"></a>
 #### Formulaire
 
-
+Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire disponible, sur le site officiel de l'IMÉRIR. Il se trouve dans le menu "Nous contacter". Tu peux nous poser, toutes les questions, que tu as en tête, et nous te répondrons, dans les plus brefs délais.
 
 <a name="adresse_postale"></a>
 #### Adresse postale
