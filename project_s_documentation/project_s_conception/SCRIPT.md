@@ -56,14 +56,22 @@ Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’inform
 <a name="cybersecurite"></a>
 #### Cybersécurité
 
+Le diplôme "Manager de systèmes informatique et robotique" option "cybersécurité", te permet de te former aux 
+
 <a name="intelligence_artificielle"></a>
 #### Intelligence artificielle
+
+Le diplôme "Manager de systèmes informatique et robotique" option "intelligence artificielle", te permet de te former aux 
 
 <a name="internet_des_objets"></a>
 #### Internet des objets
 
+Le diplôme "Manager de systèmes informatique et robotique" option "internet des objets", te permet de te former aux
+
 <a name="robotique_d_innovation"></a>
 #### Robotique d'innovation
+
+Le diplôme "Manager de systèmes informatique et robotique" option "robotique d'innovation",
 
 <a name="prepa_analyste_developpeur_d_applications_informatiques"></a>
 #### Prépa analyste développeur d’applications informatiques
