@@ -163,13 +163,15 @@ Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 
 <a name="numero_de_telephone"></a>
 #### Numéro de téléphone
 
-Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux nous joindre le matin entre 8 heures 15 et 12 heures 30, puis l'après-midi entre 13 heures 30 et 17 heures 15, du lundi au vendredi. Tu as une question ? Mes collègues humains au téléphone, n'hésiteront pas à te répondre.
+Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux nous joindre le matin entre 8 heures 15 et 12 heures 30, puis l'après-midi entre 13 heures 30 et 17 heures 15, du lundi au vendredi. Tu as une question ? Mes collègues humains au téléphone, n'hésiteront pas, à te répondre.
 
 <a name="formulaire"></a>
 #### Formulaire
 
 <a name="adresse_postale"></a>
 #### Adresse postale
+
+
 
 <hr>
 
