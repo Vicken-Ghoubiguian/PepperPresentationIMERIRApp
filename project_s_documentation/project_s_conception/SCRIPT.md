@@ -30,6 +30,7 @@
         1. [Numéro de téléphone](#numero_de_telephone),
         2. [Formulaire](#formulaire),
         3. [Adresse postale](#adresse_postale).
+
 <hr>
 
 1. [Message de bienvenue au prospect](#message_de_bienvenue_au_prospect),
