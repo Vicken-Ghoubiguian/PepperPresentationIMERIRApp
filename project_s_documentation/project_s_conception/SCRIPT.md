@@ -141,6 +141,12 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="s_inscrire"></a>
 ## S'inscrire
 
+<a name="remplir_le_formulaire"></a>
+### Souhaitez-vous voir des photos et vidéos de cérémonies ?
+
+<a name="remplir_le_formulaire_d_inscription_et_l_envoyer"></a>
+#### Remplir le formulaire d'inscription et l'envoyer
+
 <a name="l_admission"></a>
 ## L’admission
 
