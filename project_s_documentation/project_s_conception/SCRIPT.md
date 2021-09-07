@@ -5,12 +5,12 @@
 1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Nos formations](#nos_formations),
     * [Quel diplôme vous intéresse ?](#quel_diplome_vous_interesse),
-        1. [Cybersécurité](),
-        2. [Intelligence artificielle](),
-        3. [Internet des objets](),
-        4. [Robotique d'innovation](),
-        5. [Prépa](),
-        6. [License informatique spécialité robotique de prototypage]().
+        1. [Cybersécurité](#cybersecurite),
+        2. [Intelligence artificielle](#intelligence_artificielle),
+        3. [Internet des objets](#internet_des_objets),
+        4. [Robotique d'innovation](#robotique_d_innovation),
+        5. [Prépa analyste développeur d’applications informatiques](#prepa_analyste_developpeur_d_applications_informatiques),
+        6. [License informatique spécialité robotique de prototypage](#license_informatique_specialite_robotique_de_prototypage).
 3. [L’alternance](#l_alternance),
 4. [Professionnels](#professionnels),
 5. [Le Fablab](#le_fablab),
@@ -39,22 +39,22 @@ Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’inform
 <a name="quel_diplome_vous_interesse"></a>
 ### Quel diplôme vous intéresse ?
 
-<a name=""></a>
+<a name="cybersecurite"></a>
 #### Cybersécurité
 
-<a name=""></a>
+<a name="intelligence_artificielle"></a>
 #### Intelligence artificielle
 
-<a name=""></a>
+<a name="internet_des_objets"></a>
 #### Internet des objets
 
-<a name=""></a>
+<a name="robotique_d_innovation"></a>
 #### Robotique d'innovation
 
-<a name=""></a>
+<a name="prepa_analyste_developpeur_d_applications_informatiques"></a>
 #### Prépa analyste développeur d’applications informatiques
 
-<a name=""></a>
+<a name="license_informatique_specialite_robotique_de_prototypage"></a>
 #### License informatique spécialité robotique de prototypage
 
 <a name="l_alternance"></a>
