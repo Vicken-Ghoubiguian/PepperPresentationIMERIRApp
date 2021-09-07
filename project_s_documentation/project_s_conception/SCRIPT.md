@@ -14,6 +14,8 @@
 3. [L’alternance](#l_alternance),
 4. [Professionnels](#professionnels),
 5. [Le Fablab](#le_fablab),
+    * [Voulez-vous en savoir plus ?](#voulez_vous_en_savoir_plus).
+        1. [Informations supplémentaires sur le fablab](#informations_supplementaires_sur_le_fablab).
 6. [Erasmus](#erasmus),
 7. [Remise des diplômes](#remise_des_diplomes),
 8. [Association des anciens](#association_des_anciens),
@@ -72,7 +74,11 @@ Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la profess
 
 L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !
 
+<a name="voulez_vous_en_savoir_plus"></a>
 ### Voulez-vous en savoir plus ?
+
+<a name="informations_supplementaires_sur_le_fablab">
+#### Informations supplémentaires sur le fablab
 
 <a name="erasmus"></a>
 ## Erasmus
