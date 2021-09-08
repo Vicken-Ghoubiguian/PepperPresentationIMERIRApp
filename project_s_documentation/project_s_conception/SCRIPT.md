@@ -103,7 +103,7 @@ En tant qu'école, résolument tournée vers la professionnalisation de ses étu
 
 Les professeurs permanents, eux, sont 
 
-Les intervenants extérieurs, en revanche,  
+Les intervenants extérieurs, en revanche, travaillent dans le monde de l’entreprise la majeure partie de leur temps, mais font partager leur savoir avec les étudiants de l'IMÉRIR, dans le domaine sur lequel ils sont professionnellement spécialisés.
 
 Alors ! Tu en conviendras qu'un grand pouvoir, implique de grandes responsabilités !
 
