@@ -94,7 +94,7 @@ Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la profess
 <a name="sessions_are"></a>
 #### Sessions ARE (aide à la recherche d'entreprises)
 
-
+Sessions A R E ? Quésaco ? Acronyme de, "Aide à la Recherche d'Entreprises", les sessions A R E sont des sessions collectives, pour l'accompagnement des étudiants, dans leur recherche d'une entreprise d'accueil, en tant qu'alternant. Au cours de cette session, durant 2 ou 3 jours, tu apprendras à bien rédiger un CV, une lettre de motivation, à cibler les entreprises qui t'intéressent, à relancer les entreprises qui ont déjà reçu une candidature de ta part, à organiser ta recherche d'une entreprise d'accueil, à te présenter, à vendre tes compétences, et à communiquer avec un recruteur potentiel. Tu apprendras également, comment tirer profit du réseau des anciens étudiants de l'école, pour trouver ton entreprise d'accueil. Décidément, l'IMÉRIR c'est comme skip ! Petite, mais puissante !
 
 <a name="professionnels"></a>
 ## Professionnels
