@@ -143,6 +143,8 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 
 Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour la promotion sortante. Elle a lieu, tous les ans, au palais des rois de Mayorque, à Perpignan.
 
+Quel moment convivial, et  !
+
 <a name="souhaitez_vous_voir_des_photos_et_videos_de_ceremonies"></a>
 ### Souhaitez-vous voir des photos et vidéos de cérémonies ?
 
