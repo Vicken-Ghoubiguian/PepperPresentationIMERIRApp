@@ -99,6 +99,8 @@ Sessions A R E ? Quésaco ? Acronyme de, "Aide à la Recherche d'Entreprises", l
 <a name="professionnels"></a>
 ## Professionnels
 
+En tant qu'école, résolument tournée vers la profesionalisation de ses étudiants, les cours dispensés à l'IMÉRIR, le sont par des professionnels. L'école comporte 4 professeurs permanents et une trentaine d'intervenants extérieurs. Les 
+
 <a name="le_fablab"></a>
 ## Le Fablab
 
