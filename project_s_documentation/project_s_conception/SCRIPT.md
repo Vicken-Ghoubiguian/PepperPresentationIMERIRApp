@@ -150,9 +150,9 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="association_des_anciens"></a>
 ## Association des anciens
 
-Les étudiants diplômés de l'IMÉRIR, constituent un grand réseau professionel, concretisé sous la forme d'une association loi de 1901, nommé "Alumni IMÉRIR". "Alumni", signifie "anciens élèves", en anglais. Créée en 1994, cette association, a pour tâche de maintenir le liens, entre tous les diplômés. 
+Les étudiants diplômés de l'IMÉRIR, constituent un grand réseau professionel, concretisé sous la forme d'une association loi de 1901, nommé "Alumni IMÉRIR". "Alumni", signifie "anciens élèves", en anglais. Créée en 1994, cette association, a pour tâche de maintenir le liens, entre tous les diplômés. Elle mène des actions, vers les diplômés de l'école, vers les imériens, ainsi que, vers les entreprises partenaires, et les cabinets de recrutement.
 
-Aujourd'hui, le réseau des anciens étudiants de l'IMÉRIR, comporte 1300 membres. . Wahou ! Comme c'est top !
+Aujourd'hui, le réseau des anciens étudiants de l'IMÉRIR, comporte 1300 membres, répartis, dans tous les secteurs économiques. Wahou ! Comme c'est top !
 
 <a name="s_inscrire"></a>
 ## S'inscrire
