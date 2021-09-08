@@ -153,6 +153,8 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="s_inscrire"></a>
 ## S'inscrire
 
+Pour t'inscrire, c'est très facile. Il te suffit de remplir un dossier d'inscription, depuis le site officiel de l'IMÉRIR, dans le menu "Admissions", puis le sous-menu "Demander mon dossier". Tu renseignes alors, la formation que tu demandes, ton nom de famille, ton prénom, et ton adresse email. Ton dossier d'inscription, te sera alors envoyé par email. Il te suffit alors de l'imprimer, de le remplir, puis de nous le retourner, avec tous les documents demandés, par la Poste, à l'adresse suivante: IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Je répète, IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Une fois le dossier d'inscription reçu, l'école traite ta demande. Il faut que tu aies fait, des études scientifiques, et que tu aies bien réussi ta scolarité, pour que ton dossier soit accepté. 
+
 <a name="souhaitez_vous_remplir_le_formulaire"></a>
 ### Souhaitez-vous remplir le formulaire d'inscription ?
 
@@ -167,7 +169,7 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 <a name="nous_contacter"></a>
 ## Nous contacter
 
-Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu "Nous contacter", et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.
+Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu "Contact", et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.
 
 <a name="souhaitez_vous_prendre_contact_avec_nous"></a>
 ### Souhaitez-vous prendre contact avec nous ?
