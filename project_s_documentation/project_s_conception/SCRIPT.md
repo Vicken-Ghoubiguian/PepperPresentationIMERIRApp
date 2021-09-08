@@ -150,6 +150,8 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="association_des_anciens"></a>
 ## Association des anciens
 
+Les étudiants diplômés de l'IMÉRIR,
+
 <a name="s_inscrire"></a>
 ## S'inscrire
 
