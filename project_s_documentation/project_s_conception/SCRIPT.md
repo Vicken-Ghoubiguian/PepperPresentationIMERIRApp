@@ -141,9 +141,9 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
 <a name="remise_des_diplomes"></a>
 ## Remise des diplômes
 
-Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour la promotion sortante. Elle a lieu, tous les ans, au palais des rois de Mayorque, à Perpignan.
+Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour la promotion sortante. Elle a lieu, tous les ans, au palais des rois de Mayorque, à Perpignan. Lors de cette cérémonie, la promotion sortante, est diplômée, et la promotion entrante, est adoubée. Ainsi, chacun des diplômés, reçoit son diplôme, de la main de l'équipe pédagogique, sur les estrades. Une fois cela fait, la nouvelle promotion qui entre à l'IMÉRIR, se présente en masse sur les estrades, prend la pose, puis se fait photographier, pour la postérité. 
 
-Quel moment joyeux, et convivial !
+Quel moment festif, et convivial !
 
 <a name="souhaitez_vous_voir_des_photos_et_videos_de_ceremonies"></a>
 ### Souhaitez-vous voir des photos et vidéos de cérémonies ?
