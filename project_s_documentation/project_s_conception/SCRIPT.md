@@ -99,7 +99,11 @@ Sessions A R E ? Quésaco ? Acronyme de, "Aide à la Recherche d'Entreprises", l
 <a name="professionnels"></a>
 ## Professionnels
 
-En tant qu'école, résolument tournée vers la professionnalisation de ses étudiants, les cours dispensés à l'IMÉRIR, le sont par des professionnels. L'école comporte 4 professeurs permanents et une trentaine d'intervenants extérieurs. Ces intervenants extérieurs 
+En tant qu'école, résolument tournée vers la professionnalisation de ses étudiants, les cours dispensés à l'IMÉRIR, le sont par des professionnels. L'école comporte 4 professeurs permanents et une trentaine d'intervenants extérieurs. 
+
+Les professeurs permanents, eux, sont 
+
+Les intervenants extérieurs, en revanche,  
 
 Alors ! Tu en conviendras qu'un grand pouvoir, implique de grandes responsabilités !
 
