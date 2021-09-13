@@ -6,16 +6,20 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 ## Contents
 
 1. [Introduction](#introduction),
-2. [Application's definition](#application_s_definition),
-3. [Git repos's structure](#git_repos_s_structure),
-4. [Project's components](#project_s_components),
-5. [How was this project developed ?](#how_was_this_project_developed)
-6. [How to install it ?](#how_to_install_it)
-7. [Useful links](#useful_links),
-8. [Conclusion](#conclusion).
+2. [Presentation of this project](#presentation_of_this_project),
+3. [Application's definition](#application_s_definition),
+4. [Git repos's structure](#git_repos_s_structure),
+5. [Project's components](#project_s_components),
+6. [How was this project developed ?](#how_was_this_project_developed)
+7. [How to install it ?](#how_to_install_it)
+8. [Useful links](#useful_links),
+9. [Conclusion](#conclusion).
 
 <a name="introduction"></a>
 ## Introduction
+
+<a name="presentation_of_this_project"></a>
+## Presentation of this project
 
 <a name="application_s_definition"></a>
 ## Application's definition
