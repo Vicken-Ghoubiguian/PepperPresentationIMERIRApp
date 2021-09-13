@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="pepperpresentationimerirapp-cfe735" version="0.0.0">
+<package version="0.0.0" uuid="pepperpresentationimerirapp-cfe735">
  <names>
-  <name lang="en_US">Untitled</name>
+  <name lang="en_US">PepperPresentationIMERIRApp</name>
+  <name lang="fr_FR">PepperPresentationIMERIRApp</name>
  </names>
+ <descriptions>
+  <description lang="en_US">Application developed for the Pepper robot, manufactured and marketed by the company Softbank Robotics, to present the IMERIR IT and robotics school during various events (trade fairs, open houses...)...</description>
+  <description lang="fr_FR">Application développée pour le robot Pepper, fabriqué et commercialisé par la société Softbank Robotics, pour présenter l'école d'informatique et de robotique IMERIR lors de divers événements (salons, portes ouvertes...)...</description>
+ </descriptions>
  <supportedLanguages>
   <language>fr_FR</language>
   <language>en_US</language>
@@ -15,10 +20,10 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
+ <requirements>
+  <naoqiRequirement maxVersion="2.5" minVersion="2.5"/>
+ </requirements>
 </package>
