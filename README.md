@@ -1,7 +1,7 @@
 # PepperPresentationIMERIRApp
 Application developed for the Pepper robot, manufactured and marketed by the company Softbank Robotics, to present the IMERIR IT and robotics school during various events (trade fairs, open houses...)...
 
-<img src="app_logo.png" data-canonical-src="app_logo.png" width="200" height="200" align="center" />
+<img src="app_logo.png" data-canonical-src="app_logo.png" width="636" height="273" align="center" />
 
 ## Contents
 
