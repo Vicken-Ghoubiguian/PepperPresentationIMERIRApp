@@ -1,11 +1,13 @@
 # PepperPresentationIMERIRApp
 Application developed for the Pepper robot, manufactured and marketed by the company Softbank Robotics, to present the IMERIR IT and robotics school during various events (trade fairs, open houses...)...
 
+<img src="./app-logo.png" data-canonical-src="./app-logo.png" width="200" height="200" align="center" />
+
 ## Contents
 
 1. [Introduction](#introduction),
 2. [Application's definition](#application_s_definition),
-3. [Git folder's structure](#git_folder_s_structure),
+3. [Git repos's structure](#git_repos_s_structure),
 4. [Project's components](#project_s_components),
 5. [How to install it ?](#how_to_install_it),
 7. [Useful links](#useful_links),
@@ -17,8 +19,8 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 <a name="application_s_definition"></a>
 ## Application's definition
 
-<a name="git_folder_s_structure"></a>
-## Git folder's structure
+<a name="git_repos_s_structure"></a>
+## Git repos's structure
 
 <a name="project_s_components"></a>
 ## Project's components
