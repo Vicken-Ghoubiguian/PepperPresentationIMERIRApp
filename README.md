@@ -9,7 +9,8 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 2. [Application's definition](#application_s_definition),
 3. [Git repos's structure](#git_repos_s_structure),
 4. [Project's components](#project_s_components),
-5. [How to install it ?](#how_to_install_it)
+5. [How was this project developed ?](#how_was_this_project_developed)
+6. [How to install it ?](#how_to_install_it)
 7. [Useful links](#useful_links),
 8. [Conclusion](#conclusion).
 
@@ -21,6 +22,9 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 
 <a name="git_repos_s_structure"></a>
 ## Git repos's structure
+
+<a name="how_was_this_project_developed"></a>
+## How was this project developed ?
 
 <a name="project_s_components"></a>
 ## Project's components
