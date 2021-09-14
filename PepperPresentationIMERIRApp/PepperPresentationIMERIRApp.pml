@@ -18,6 +18,7 @@
         <File name="alternance" src="boxes_images/alternance.png" />
         <File name="fablab" src="boxes_images/fablab.png" />
         <File name="imerir_alumni" src="boxes_images/imerir_alumni.png" />
+        <File name="pepper_main_choice" src="boxes_images/pepper_main_choice.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
