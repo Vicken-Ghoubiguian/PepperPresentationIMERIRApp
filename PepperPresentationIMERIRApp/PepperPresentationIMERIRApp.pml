@@ -15,6 +15,9 @@
         <File name="first contact" src="boxes_images/first contact.png" />
         <File name="pepper_au_revoir" src="boxes_images/pepper_au_revoir.png" />
         <File name="imerir_quesaquo" src="boxes_images/imerir_quesaquo.png" />
+        <File name="alternance" src="boxes_images/alternance.png" />
+        <File name="fablab" src="boxes_images/fablab.png" />
+        <File name="imerir_alumni" src="boxes_images/imerir_alumni.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
