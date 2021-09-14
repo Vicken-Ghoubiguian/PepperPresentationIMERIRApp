@@ -11,6 +11,10 @@
         <File name="icon" src="icon.png" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
         <File name="choice_sentences_light" src="behavior_1/Aldebaran/choice_sentences_light.xml" />
+        <File name="erasmus+" src="boxes_images/erasmus+.png" />
+        <File name="first contact" src="boxes_images/first contact.png" />
+        <File name="pepper_au_revoir" src="boxes_images/pepper_au_revoir.png" />
+        <File name="imerir_quesaquo" src="boxes_images/imerir_quesaquo.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />

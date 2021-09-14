@@ -82,6 +82,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Message de remerciements, d'information et d'au revoir</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Merci de m'avoir laissé te présenter l'IMÉRIR. J'espère que ça a attisé ta curiosité dans les domaines de l'informatique, de la robotique, des objets connectés et de l'intelligence artificielle. Si tu es intéressé, tu peux demander à mes collègues humains des précisions supplémentaires, les plaquettes de présentation détaillée de chacune des formations dispensées par l'école, voire aussi un dossier d'inscription pour devenir étudiant de notre école et toutes informations supplémentaires. Tu peux aussi à tout moment demander les renseignements et les informations que tu veux, soit en te rendant sur le site officiel de l'IMÉRIR, soit en téléphonant au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Au revoir, j'espère te revoir très vite.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Merci de m'avoir laissé te présenter l'IMÉRIR. J'espère que ça a attisé ta curiosité dans les domaines de l'informatique, de la robotique, des objets connectés et de l'intelligence artificielle. Si tu es intéressé, tu peux demander à mes collègues humains des précisions supplémentaires, les plaquettes de présentation détaillée de chacune des formations dispensées par l'école, voire aussi un dossier d'inscription pour devenir étudiant de notre école et toutes informations supplémentaires. Tu peux aussi à tout moment demander les renseignements et les informations que tu veux, soit en te rendant sur le site officiel de l'IMÉRIR, soit en téléphonant au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Au revoir, j'espère te revoir très vite.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Nos formations</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
