@@ -19,6 +19,15 @@
         <File name="fablab" src="boxes_images/fablab.png" />
         <File name="imerir_alumni" src="boxes_images/imerir_alumni.png" />
         <File name="pepper_main_choice" src="boxes_images/pepper_main_choice.png" />
+        <File name=".manifest.xml.11564" src=".manifest.xml.11564.csp" />
+        <File name=".behavior.xar.11564" src="behavior_1/.behavior.xar.11564.csp" />
+        <File name="admissions" src="boxes_images/admissions.png" />
+        <File name="chapeau_diplome" src="boxes_images/chapeau_diplome.png" />
+        <File name="imerir-home-discover-school" src="boxes_images/imerir-home-discover-school.png" />
+        <File name="inscriptions" src="boxes_images/inscriptions.png" />
+        <File name="nous_contacter" src="boxes_images/nous_contacter.png" />
+        <File name=".translation_en_US.ts.11564" src="translations/.translation_en_US.ts.11564.csp" />
+        <File name=".translation_fr_FR.ts.11564" src="translations/.translation_fr_FR.ts.11564.csp" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
