@@ -8,6 +8,21 @@
             <comment>Text</comment>
             <translation type="vanished">Hello</translation>
         </message>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation>Hello</translation>
+        </message>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation>Hello</translation>
+        </message>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation>Hello</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (1)</name>
