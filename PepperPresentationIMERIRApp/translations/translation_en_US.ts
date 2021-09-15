@@ -2,6 +2,15 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
     <context>
+        <name>behavior_1/behavior.xar:/Adresse postale</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
             <source>Bonjour</source>
@@ -36,10 +45,44 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Formulaire</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire disponible, sur le site officiel de l'IMÉRIR. Il se trouve dans le menu &quot;Nous contacter&quot;. Tu peux nous poser, toutes les questions, que tu as en tête, et nous te répondrons, dans les plus brefs délais.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Le Fablab</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Les universités et écoles partenaires de l'IMERIR</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Alors, les écoles et universités partenaires de l'IMÉRIR, dans le cadre d'Erasmus, sont:
+
+l'Université de Bonn, à Bonn, en Allemagne,
+l'Algebra university college, à Zagreb, en Croatie,
+l'Université d'Aalborg, à Aalborg, au Danemark,
+l'Université de Gérone, à Gérone, en Espagne,
+l'Université de Tallinn, à Tallinn, en Estonie,
+l'Université des sciences appliquées HAMK, à Hämeenlinna, en Finlande,
+l'Université des sciences appliquées de Laponie, à Rovaniemi, en Finlande,
+l'Université d'Óbuda, à Budapest, en Hongrie,
+l'Institute of Technology, Blanchardstown (ITB), à Dublin, en Irlande,
+la Hanze University of Applied Sciences, à Groningue, aux Pays-Bas,
+l’École polytechnique de Cracovie, à Cracovie, en Pologne,
+l'Institut polytechnique de Bragance, à Bragance, au Portugal,
+l'Université Babeș-Bolyai, à Cluj-Napoca, en Roumanie,
+l'Université d'Innopolis, à Innopolis, en Russie.
+Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les goûts.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -94,6 +137,15 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu &quot;Contact&quot;, et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Numéro de téléphone</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux nous joindre le matin entre 8 heures 15 et 12 heures 30, puis l'après-midi entre 13 heures 30 et 17 heures 15, du lundi au vendredi. Tu as une question ? Mes collègues humains au téléphone, n'hésiteront pas, à te répondre.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>

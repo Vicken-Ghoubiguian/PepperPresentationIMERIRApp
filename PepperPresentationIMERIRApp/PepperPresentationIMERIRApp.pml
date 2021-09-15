@@ -25,6 +25,13 @@
         <File name="inscriptions" src="boxes_images/inscriptions.png" />
         <File name="nous_contacter" src="boxes_images/nous_contacter.png" />
         <File name="tie" src="boxes_images/tie.png" />
+        <File name=".behavior.xar.20824" src="behavior_1/.behavior.xar.20824.csp" />
+        <File name="erasmus+_colleges" src="boxes_images/erasmus+_colleges.png" />
+        <File name="formulaire" src="boxes_images/formulaire.PNG" />
+        <File name="la_poste" src="boxes_images/la_poste.png" />
+        <File name="telephone" src="boxes_images/telephone.png" />
+        <File name=".translation_en_US.ts.20824" src="translations/.translation_en_US.ts.20824.csp" />
+        <File name=".translation_fr_FR.ts.20824" src="translations/.translation_fr_FR.ts.20824.csp" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
