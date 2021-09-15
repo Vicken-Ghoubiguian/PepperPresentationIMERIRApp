@@ -33,6 +33,11 @@
             <comment>Text</comment>
             <translation>Bonjour</translation>
         </message>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation>Bonjour</translation>
+        </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (1)</name>
