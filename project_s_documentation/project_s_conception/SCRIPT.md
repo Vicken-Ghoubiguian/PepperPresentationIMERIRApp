@@ -30,7 +30,7 @@
         1. [Remplir le formulaire d'inscription et l'envoyer](#remplir_le_formulaire_d_inscription_et_l_envoyer).
 10. [L’admission](#l_admission),
 11. [Nous contacter](#nous_contacter)
-    * [Souhaites-tu prendre contact avec nous ?](#souhaites_tu_prendre_contact_avec_nous).
+    * [Comment souhaites-tu prendre contact avec nous ?](#comment_souhaites_tu_prendre_contact_avec_nous).
         1. [Numéro de téléphone](#numero_de_telephone),
         2. [Formulaire](#formulaire),
         3. [Adresse postale](#adresse_postale).
@@ -179,8 +179,8 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 
 Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu "Contact", et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.
 
-<a name="souhaites_tu_prendre_contact_avec_nous"></a>
-### Souhaites-tu prendre contact avec nous ?
+<a name="comment_souhaites_tu_prendre_contact_avec_nous"></a>
+### Comment souhaites-tu prendre contact avec nous ?
 
 <a name="numero_de_telephone"></a>
 #### Numéro de téléphone
