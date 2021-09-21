@@ -30,6 +30,7 @@
         <File name="tie" src="boxes_images/tie.png" />
         <File name="icon" src="icon.png" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
+        <File name="nos_formations" src="boxes_images/nos_formations.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
