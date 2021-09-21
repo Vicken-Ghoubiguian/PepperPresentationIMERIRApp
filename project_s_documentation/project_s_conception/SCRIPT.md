@@ -56,22 +56,24 @@ Aujourd’hui, L’IMÉRIR dispense 3 formations dans les domaines de l’inform
 <a name="cybersecurite"></a>
 #### Cybersécurité
 
-Le diplôme "Manager de systèmes informatique et robotique" option "cybersécurité", te permet de te former aux 
+Le diplôme "Manager de systèmes informatique et robotique" (ou "MSIR"), option "cybersécurité", est un diplôme Bac +5, et donc, de niveau "ingénieur", qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du management de projet. Cette formation se prépare sur 3 ans, après l'obtention d'un diplôme scientifique Bac +2, au mimumum, comme un brevet de technicien supérieur (ou "BTS"), ou encore un "bachelor universitaire de technologie" (ou "B U T").
+
+L'option "Cybersécurité", choisi dès le second semestre, de la seconde année de formation, te permettra de te spécialiser dans les réseaux informatiques, de protéger les infrastructures réseaux, ainsi que les objets connectés, et à contrer des attaques de hackeurs. Wow ! Impressionnant ! Non ? Tu obtiens ton diplôme, en soutenant un mémoire de fin d'études devant un jury, en validant tes périodes en entreprise, et en obtenant la moyenne scolaire, dans toutes tes matières et ta spécialité, ici la "Cybersécurité". Simple comme bonjour !
 
 <a name="intelligence_artificielle"></a>
 #### Intelligence artificielle
 
-Le diplôme "Manager de systèmes informatique et robotique" option "intelligence artificielle", te permet de te former aux 
+Le diplôme "Manager de systèmes informatique et robotique", option "robotique d'innovation", est un diplôme Bac +5, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du managemainte de projet.
 
 <a name="internet_des_objets"></a>
 #### Internet des objets
 
-Le diplôme "Manager de systèmes informatique et robotique" option "internet des objets", te permet de te former aux
+Le diplôme "Manager de systèmes informatique et robotique", option "robotique d'innovation", est un diplôme Bac +5, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du managemainte de projet.
 
 <a name="robotique_d_innovation"></a>
 #### Robotique d'innovation
 
-Le diplôme "Manager de systèmes informatique et robotique" option "robotique d'innovation", te permet de te former aux
+Le diplôme "Manager de systèmes informatique et robotique", option "robotique d'innovation", est un diplôme Bac +5, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du managemainte de projet.
 
 <a name="prepa_analyste_developpeur_d_applications_informatiques"></a>
 #### Prépa analyste développeur d’applications informatiques
