@@ -31,6 +31,7 @@
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
         <File name="nos_formations" src="boxes_images/nos_formations.png" />
         <File name="pepper_choices" src="boxes_images/pepper_choices.png" />
+        <File name="ARE" src="boxes_images/ARE.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
