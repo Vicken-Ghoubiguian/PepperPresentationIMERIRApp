@@ -29,6 +29,7 @@
         <File name="telephone" src="boxes_images/telephone.png" />
         <File name="tie" src="boxes_images/tie.png" />
         <File name="icon" src="icon.png" />
+        <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
     </Resources>
     <Topics />
     <IgnoredPaths />
