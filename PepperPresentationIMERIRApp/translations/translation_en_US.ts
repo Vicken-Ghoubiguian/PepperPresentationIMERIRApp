@@ -36,6 +36,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Cybersécurité</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Le diplôme &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;), option &quot;cybersécurité&quot;, est un diplôme Bac +5, et donc, de niveau &quot;ingénieur&quot;, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du management de projet. Cette formation se prépare sur 3 ans, après l'obtention d'un diplôme scientifique Bac +2, au mimumum, comme un brevet de technicien supérieur (ou &quot;BTS&quot;), ou encore un bachelor universitaire de technologie (ou &quot;B U T&quot;). Comme toutes les autres formations, celle-ci s'effectue en alternance. Et donc, tu acquiers de nouveaux savoirs, et de nouvelles compétences en cours, avec une mise en pratique directe en entreprise en qualité de salarié. De plus, dès le premier semestre, de la troisième et dernière année de formation, tu peux partir à l’étranger, dans le cadre du programme Erasmus. Tu étudies alors, dans une université ou une école d’accueil, partenaire de l’IMÉRIR, tout en perfectionnant ton anglais, en découvrant de nouveaux pays, et de nouvelles cultures. De nouvelles relations, peuvent s'ouvrir aussi à toi. Quelle aventure ! L'option &quot;Cybersécurité&quot;, choisi dès le second semestre, de la seconde année de formation, te permettra de te spécialiser dans les réseaux informatiques, de protéger les infrastructures réseaux, ainsi que les objets connectés, et à contrer des attaques de hackeurs. Wow ! Impressionnant ! Non ? Tu obtiens ton diplôme, en soutenant un mémoire de fin d'études devant un jury, en validant tes périodes en entreprise, et en obtenant la moyenne scolaire, dans toutes tes matières et ta spécialité, ici la &quot;Cybersécurité&quot;. C'est simple comme bonjour !</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Erasmus</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -49,6 +58,24 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire disponible, sur le site officiel de l'IMÉRIR. Il se trouve dans le menu &quot;Nous contacter&quot;. Tu peux nous poser, toutes les questions, que tu as en tête, et nous te répondrons, dans les plus brefs délais.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Intelligence artificielle</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Le diplôme &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;), option &quot;Intelligence artificielle&quot;, est un diplôme Bac +5, et donc, de niveau &quot;ingénieur&quot;, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du management de projet. Cette formation se prépare sur 3 ans, après l'obtention d'un diplôme scientifique Bac +2, au mimumum, comme un brevet de technicien supérieur (ou &quot;BTS&quot;), ou encore un bachelor universitaire de technologie (ou &quot;B U T&quot;). Comme toutes les autres formations, celle-ci s'effectue en alternance. Et donc, tu acquiers de nouveaux savoirs, et de nouvelles compétences en cours, avec une mise en pratique directe en entreprise en qualité de salarié. De plus, dès le premier semestre, de la troisième et dernière année de formation, tu peux partir à l’étranger, dans le cadre du programme Erasmus. Tu étudies alors, dans une université ou une école d’accueil, partenaire de l’IMÉRIR, tout en perfectionnant ton anglais, en découvrant de nouveaux pays, et de nouvelles cultures. De nouvelles relations, peuvent s'ouvrir aussi à toi. Quelle aventure ! L'option &quot;Intelligence artificielle&quot;, choisi dès le second semestre, de la seconde année de formation, te permettra de te spécialiser dans le machine learning, la complexité algorithmique, l'optimisation algorithmique, les systèmes experts, et le deep learning. Wow ! Impressionnant ! Non ? Tu obtiens ton diplôme, en soutenant un mémoire de fin d'études devant un jury, en validant tes périodes en entreprise, et en obtenant la moyenne scolaire, dans toutes tes matières et ta spécialité, ici l'&quot;Intelligence artificielle&quot;. C'est simple comme bonjour !</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Internet des objets</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Le diplôme &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;), option &quot;Internet des objets&quot;, est un diplôme Bac +5, et donc, de niveau &quot;ingénieur&quot;, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du management de projet. Cette formation se prépare sur 3 ans, après l'obtention d'un diplôme scientifique Bac +2, au mimumum, comme un brevet de technicien supérieur (ou &quot;BTS&quot;), ou encore un bachelor universitaire de technologie (ou &quot;B U T&quot;). Comme toutes les autres formations, celle-ci s'effectue en alternance. Et donc, tu acquiers de nouveaux savoirs, et de nouvelles compétences en cours, avec une mise en pratique directe en entreprise en qualité de salarié. De plus, dès le premier semestre, de la troisième et dernière année de formation, tu peux partir à l’étranger, dans le cadre du programme Erasmus. Tu étudies alors, dans une université ou une école d’accueil, partenaire de l’IMÉRIR, tout en perfectionnant ton anglais, en découvrant de nouveaux pays, et de nouvelles cultures. De nouvelles relations, peuvent s'ouvrir aussi à toi. Quelle aventure ! L'option &quot;Internet des objets&quot;, choisi dès le second semestre, de la seconde année de formation, te permettra de te spécialiser dans la conception d'objets connectés, le claoude, l'éléctronique, les infrastructures distribuées, le blockchain, ainsi que le développement mobile, et le droit des objets connectés et des logiciels. Wow ! Impressionnant ! Non ? Tu obtiens ton diplôme, en soutenant un mémoire de fin d'études devant un jury, en validant tes périodes en entreprise, et en obtenant la moyenne scolaire, dans toutes tes matières et ta spécialité, ici l'&quot;Internet des objets&quot;. C'est simple comme bonjour !</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -173,6 +200,15 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour la promotion sortante. Elle a lieu, tous les ans, au palais des rois de Mayorque, à Perpignan. Lors de cette cérémonie, la promotion sortante, est diplômée, et la promotion entrante, est adoubée. Ainsi, après un discours très inspiré de l'équipe dirigeante de l'IMÉRIR, et du parrain de la promotion, chacun des diplômés, reçoit son diplôme, de la main de l'équipe pédagogique, sur les estrades. Une fois cela fait, la nouvelle promotion, celle qui entre à l'IMÉRIR, se présente en masse sur les estrades, prend la pose, puis se fait photographier, pour la postérité. Un discours de clôture accompagne, bien sûr, la fin de cette cérémonie. Une fois cette dernière terminée, les promotions sortante et entrante, partagent un verre ensemble, en compagnie de l'équipe pédagogique de l'école, de son équipe dirigeante, des parrains des promotions sortante et entrante, et de l'association &quot;Alumni IMÉRIR&quot;. Cool ! Quel moment festif, et convivial !</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Robotique d'innovation</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Le diplôme &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;), option &quot;robotique d'innovation&quot;, est un diplôme Bac +5, et donc, de niveau &quot;ingénieur&quot;, qui te permet de recevoir une formation solide, et polyvalente, dans les domaines de l'informatique, de la robotique, des objets connectés, de l'intelligence artificielle, du réseau, de cybersécurité, du prototypage et du management de projet. Cette formation se prépare sur 3 ans, après l'obtention d'un diplôme scientifique Bac +2, au mimumum, comme un brevet de technicien supérieur (ou &quot;BTS&quot;), ou encore un bachelor universitaire de technologie (ou &quot;B U T&quot;). Comme toutes les autres formations, celle-ci s'effectue en alternance. Et donc, tu acquiers de nouveaux savoirs, et de nouvelles compétences en cours, avec une mise en pratique directe en entreprise en qualité de salarié. De plus, dès le premier semestre, de la troisième et dernière année de formation, tu peux partir à l’étranger, dans le cadre du programme Erasmus. Tu étudies alors, dans une université ou une école d’accueil, partenaire de l’IMÉRIR, tout en perfectionnant ton anglais, en découvrant de nouveaux pays, et de nouvelles cultures. De nouvelles relations, peuvent s'ouvrir aussi à toi. Quelle aventure ! L'option &quot;Robotique d'innovation&quot;, choisi dès le second semestre, de la seconde année de formation, te permettra de te spécialiser dans la robotique industrielle, la robotique de service, les cobots, la conception robotique, le prototypage, ainsi que la culture maikeur, et les nouvelles bases d'innovation. Wow ! Impressionnant ! Non ? Tu obtiens ton diplôme, en soutenant un mémoire de fin d'études devant un jury, en validant tes périodes en entreprise, et en obtenant la moyenne scolaire, dans toutes tes matières et ta spécialité, ici la &quot;Robotique d'innovation&quot;. C'est simple comme bonjour !</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
