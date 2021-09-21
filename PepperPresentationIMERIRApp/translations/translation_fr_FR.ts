@@ -42,6 +42,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/L’alternance</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la professionnalisation de ses étudiants, vers des postes d'ingénieurs, de chefs de projet, et de managers. C'est pour cette raison, que toutes les formations dispensées par l'IMÉRIR, se font en alternance. L’alternance est un dispositif de formation, combinant l’acquisition de nouveaux savoirs, et de nouvelles compétences au sein de l’école, à une mise en pratique directe dans l’entreprise en qualité de salarié. L'alternance, ce n'est que des avantages ! Pour l'étudiant, les frais de scolarité sont gratuits, et tu es salarié de l'entreprise, ce qui fait que tu touches ton salaire, et bénéficies des avantages accordés par l'entreprise. Pour l'entreprise, cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des coûts de recrutement maitrisés. Du gagnant-gagnant, en somme ! Il existe 2 types de contrat de travail en alternance: le contrat d'apprentissage, et le contrat de professionnalisation. Les différences entre les deux sont purement administratives. Donc vas-y, go !</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Outre les domaines qui y sont enseignés, l’IMÉRIR a pour objectif la professionnalisation de ses étudiants, vers des postes d'ingénieurs, de chefs de projet, et de managers. C'est pour cette raison, que toutes les formations dispensées par l'IMÉRIR, se font en alternance. L’alternance est un dispositif de formation, combinant l’acquisition de nouveaux savoirs, et de nouvelles compétences au sein de l’école, à une mise en pratique directe dans l’entreprise en qualité de salarié. L'alternance, ce n'est que des avantages ! Pour l'étudiant, les frais de scolarité sont gratuits, et tu es salarié de l'entreprise, ce qui fait que tu touches ton salaire, et bénéficies des avantages accordés par l'entreprise. Pour l'entreprise, cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des coûts de recrutement maitrisés. Du gagnant-gagnant, en somme ! Il existe 2 types de contrat de travail en alternance: le contrat d'apprentissage, et le contrat de professionnalisation. Les différences entre les deux sont purement administratives. Donc vas-y, go !</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Message de bienvenue au prospect</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
