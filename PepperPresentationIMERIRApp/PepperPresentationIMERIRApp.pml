@@ -24,13 +24,13 @@
         <File name="la_poste" src="boxes_images/la_poste.png" />
         <File name="nous_contacter" src="boxes_images/nous_contacter.png" />
         <File name="pepper_au_revoir" src="boxes_images/pepper_au_revoir.png" />
-        <File name="pepper_main_choice" src="boxes_images/pepper_main_choice.png" />
         <File name="robotique_d_innovation" src="boxes_images/robotique_d_innovation.png" />
         <File name="telephone" src="boxes_images/telephone.png" />
         <File name="tie" src="boxes_images/tie.png" />
         <File name="icon" src="icon.png" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
         <File name="nos_formations" src="boxes_images/nos_formations.png" />
+        <File name="pepper_choices" src="boxes_images/pepper_choices.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
