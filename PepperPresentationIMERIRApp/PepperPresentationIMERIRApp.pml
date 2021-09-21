@@ -29,6 +29,7 @@
         <File name="formulaire" src="boxes_images/formulaire.PNG" />
         <File name="la_poste" src="boxes_images/la_poste.png" />
         <File name="telephone" src="boxes_images/telephone.png" />
+        <File name=".behavior.xar.20240" src="behavior_1/.behavior.xar.20240.csp" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
