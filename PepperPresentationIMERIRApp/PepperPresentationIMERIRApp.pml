@@ -29,13 +29,10 @@
         <File name="formulaire" src="boxes_images/formulaire.PNG" />
         <File name="la_poste" src="boxes_images/la_poste.png" />
         <File name="telephone" src="boxes_images/telephone.png" />
-        <File name=".behavior.xar.14876" src="behavior_1/.behavior.xar.14876.csp" />
         <File name="IoT" src="boxes_images/IoT.png" />
         <File name="cybersecurite" src="boxes_images/cybersecurite.png" />
         <File name="intelligence_artificielle" src="boxes_images/intelligence_artificielle.png" />
         <File name="robotique_d_innovation" src="boxes_images/robotique_d_innovation.png" />
-        <File name=".translation_en_US.ts.14876" src="translations/.translation_en_US.ts.14876.csp" />
-        <File name=".translation_fr_FR.ts.14876" src="translations/.translation_fr_FR.ts.14876.csp" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="behavior_1/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
