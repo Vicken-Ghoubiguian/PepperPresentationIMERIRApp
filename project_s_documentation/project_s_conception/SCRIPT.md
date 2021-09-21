@@ -195,7 +195,7 @@ Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire dispo
 <a name="adresse_postale"></a>
 #### Adresse postale
 
-Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.  
+Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.
 
 <hr>
 

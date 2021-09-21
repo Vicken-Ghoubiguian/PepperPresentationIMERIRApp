@@ -2,6 +2,15 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr_FR">
     <context>
+        <name>behavior_1/behavior.xar:/Adresse postale</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
             <source>Bonjour</source>
@@ -30,6 +39,23 @@
             <source>Oh !!!!</source>
             <comment>Text</comment>
             <translation type="obsolete">Oh !!!!</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Animated Say (2)</name>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="vanished">Bonjour</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Formulaire</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire disponible, sur le site officiel de l'IMÉRIR. Il se trouve dans le menu &quot;Nous contacter&quot;. Tu peux nous poser, toutes les questions, que tu as en tête, et nous te répondrons, dans les plus brefs délais.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire disponible, sur le site officiel de l'IMÉRIR. Il se trouve dans le menu &quot;Nous contacter&quot;. Tu peux nous poser, toutes les questions, que tu as en tête, et nous te répondrons, dans les plus brefs délais.</translation>
         </message>
     </context>
     <context>
@@ -103,6 +129,15 @@
             <source>Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu &quot;Contact&quot;, et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.</source>
             <comment>Text</comment>
             <translation type="unfinished">Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu &quot;Contact&quot;, et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Numéro de téléphone</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux nous joindre le matin entre 8 heures 15 et 12 heures 30, puis l'après-midi entre 13 heures 30 et 17 heures 15, du lundi au vendredi. Tu as une question ? Mes collègues humains au téléphone, n'hésiteront pas, à te répondre.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Alors, le numéro de téléphone de l'IMÉRIR, est le 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux nous joindre le matin entre 8 heures 15 et 12 heures 30, puis l'après-midi entre 13 heures 30 et 17 heures 15, du lundi au vendredi. Tu as une question ? Mes collègues humains au téléphone, n'hésiteront pas, à te répondre.</translation>
         </message>
     </context>
     <context>
