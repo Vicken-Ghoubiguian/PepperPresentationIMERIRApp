@@ -4,7 +4,7 @@
 
 1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Nos formations](#nos_formations),
-    * [Quel diplôme vous intéresse ?](#quel_diplome_vous_interesse).
+    * [Quel diplôme t'intéresse ?](#quel_diplome_vous_interesse).
         1. [Cybersécurité](#cybersecurite),
         2. [Intelligence artificielle](#intelligence_artificielle),
         3. [Internet des objets](#internet_des_objets),
@@ -12,25 +12,25 @@
         5. [Prépa analyste développeur d’applications informatiques](#prepa_analyste_developpeur_d_applications_informatiques),
         6. [License informatique spécialité robotique de prototypage](#license_informatique_specialite_robotique_de_prototypage).
 3. [L’alternance](#l_alternance),
-    * [L'IMÉRIR organise des sessions A R E; Voulez-vous en savoir plusse ?](#alternance_en_savoir_plus).
+    * [L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?](#alternance_en_savoir_plus).
         1. [Sessions ARE (aide à la recherche d'entreprises)](#sessions_are).
 4. [Professionnels](#professionnels),
 5. [Le Fablab](#le_fablab),
-    * [Voulez-vous en savoir plusse ?](#voulez_vous_en_savoir_plus).
+    * [Veux-tu en savoir plusse ?](#voulez_vous_en_savoir_plus).
         1. [Informations supplémentaires sur le fablab](#informations_supplementaires_sur_le_fablab).
 6. [Erasmus](#erasmus),
-    * [Que voulez-vous faire maintenant ? Vous inscrire ? voir les partenaires ? ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
+    * [Que Veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?](#que_voulez_vous_faire_maintenant_s_inscrire_voir_les_partenaires_rien).
         1. [Les universités et écoles partenaires de l'IMÉRIR](#les_universites_et_ecoles_partenaires_de_l_IMERIR).
 7. [Remise des diplômes](#remise_des_diplomes),
-    * [Souhaitez-vous voir des photos et vidéos de cérémonies ?](#souhaitez_vous_voir_des_photos_et_videos_de_ceremonies).
+    * [Souhaites-tu voir des photos et vidéos de cérémonies ?](#souhaitez_vous_voir_des_photos_et_videos_de_ceremonies).
         1. [Détails des remises des diplômes](#details_des_remise_des_diplomes).
 8. [Association des anciens](#association_des_anciens),
 9. [S'inscrire](#s_inscrire),
-    * [Souhaitez-vous remplir le formulaire d'inscription ?](#souhaitez_vous_remplir_le_formulaire).
+    * [Souhaites-tu remplir le formulaire d'inscription ?](#souhaitez_vous_remplir_le_formulaire).
         1. [Remplir le formulaire d'inscription et l'envoyer](#remplir_le_formulaire_d_inscription_et_l_envoyer).
 10. [L’admission](#l_admission),
 11. [Nous contacter](#nous_contacter)
-    * [Souhaitez-vous prendre contact avec nous ?](#souhaitez_vous_prendre_contact_avec_nous).
+    * [Souhaites-tu prendre contact avec nous ?](#souhaitez_vous_prendre_contact_avec_nous).
         1. [Numéro de téléphone](#numero_de_telephone),
         2. [Formulaire](#formulaire),
         3. [Adresse postale](#adresse_postale).
