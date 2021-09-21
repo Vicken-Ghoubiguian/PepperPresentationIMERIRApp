@@ -71,7 +71,7 @@ Le diplôme "Manager de systèmes informatique et robotique" option "internet de
 <a name="robotique_d_innovation"></a>
 #### Robotique d'innovation
 
-Le diplôme "Manager de systèmes informatique et robotique" option "robotique d'innovation",
+Le diplôme "Manager de systèmes informatique et robotique" option "robotique d'innovation", te permet de te former aux
 
 <a name="prepa_analyste_developpeur_d_applications_informatiques"></a>
 #### Prépa analyste développeur d’applications informatiques
