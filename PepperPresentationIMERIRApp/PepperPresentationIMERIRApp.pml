@@ -32,6 +32,7 @@
         <File name="nos_formations" src="boxes_images/nos_formations.png" />
         <File name="pepper_choices" src="boxes_images/pepper_choices.png" />
         <File name="ARE" src="boxes_images/ARE.png" />
+        <File name="infos_supplementaires_fablab" src="boxes_images/infos_supplementaires_fablab.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />

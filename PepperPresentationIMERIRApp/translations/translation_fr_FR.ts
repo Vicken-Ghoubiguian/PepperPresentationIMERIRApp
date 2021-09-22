@@ -68,6 +68,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Informations supplémentaires sur le fablab</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Bonjour</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Le Fablab</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -190,10 +199,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation>Bonjour</translation>
+            <translation type="vanished">Bonjour</translation>
         </message>
     </context>
     <context>
