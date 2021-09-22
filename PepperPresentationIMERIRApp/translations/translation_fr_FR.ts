@@ -13,10 +13,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation>Bonjour</translation>
+            <translation type="vanished">Bonjour</translation>
         </message>
         <message>
             <source>Bonjour à toi, humain ! Je m'appelle Pepper. Je suis un robot humanoïde, un système complexe associant la mécanique, l'électronique, et l'informatique. L'informatique ? Parlons-en ! Ma grande force, c'est l'intelligence qu'on m'a développée, et qui me permet de te parler et de t'exposer des choses. Mais qui me permet également de recueillir ton avis, de te répondre à une question, et de réagir selon les différentes émotions que tu peux éprouver. Mon intelligence, tu l'as compris, a été programmé, par des programmeurs. Et toi aussi, tu peux apprendre le développement informatique, pour que développer un robot comme moi, n'ait plus de secrets pour toi. Tu l'as compris, je suis ici en tant qu'ambassadeur de l'IMÉRIR. Acronyme d'institut méditerranéen d'étude et de recherche en informatique et robotique, cette école te permet, justement, de te former aux métiers du développement informatique, de la robotique, des objets connectés et de l'intelligence artificielle, pour que toi aussi, tu sois capable de me programmer, voire, de développer des choses plus balèzes encore. Quelles choses passionnantes !</source>
@@ -32,10 +31,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation>Bonjour</translation>
+            <translation type="vanished">Bonjour</translation>
         </message>
         <message>
             <source>Oh !!!!</source>
@@ -131,6 +129,15 @@
             <source>L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plusse il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</source>
             <comment>Text</comment>
             <translation type="unfinished">L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plusse il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/License informatique option robotique de prototypage</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Bonjour</translation>
         </message>
     </context>
     <context>
@@ -262,6 +269,15 @@
             <source>Sessions A R E ? Quésaco ? Acronyme de, &quot;Aide à la Recherche d'Entreprises&quot;, les sessions A R E sont des sessions collectives, pour l'accompagnement des étudiants, dans leur recherche d'une entreprise d'accueil, en tant qu'alternant. Au cours de cette session, durant 2 ou 3 jours, tu apprendras à bien rédiger un CV, et une lettre de motivation, à cibler les entreprises qui t'intéressent, à relancer celles qui ont déjà reçu une candidature de ta part, à organiser tes recherches d'une entreprise d'accueil, à te présenter, à vendre tes compétences, et à communiquer auprès d'un recruteur potentiel. Tu apprendras également, comment tirer profit du réseau des anciens étudiants de l'école, grâce à leur annuaire,pour décrocher ton contrat en alternance, dans ton entreprise d'accueil. Décidément, l'IMÉRIR c'est comme Skip ! Petit, mais puissant !</source>
             <comment>Text</comment>
             <translation type="unfinished">Sessions A R E ? Quésaco ? Acronyme de, &quot;Aide à la Recherche d'Entreprises&quot;, les sessions A R E sont des sessions collectives, pour l'accompagnement des étudiants, dans leur recherche d'une entreprise d'accueil, en tant qu'alternant. Au cours de cette session, durant 2 ou 3 jours, tu apprendras à bien rédiger un CV, et une lettre de motivation, à cibler les entreprises qui t'intéressent, à relancer celles qui ont déjà reçu une candidature de ta part, à organiser tes recherches d'une entreprise d'accueil, à te présenter, à vendre tes compétences, et à communiquer auprès d'un recruteur potentiel. Tu apprendras également, comment tirer profit du réseau des anciens étudiants de l'école, grâce à leur annuaire,pour décrocher ton contrat en alternance, dans ton entreprise d'accueil. Décidément, l'IMÉRIR c'est comme Skip ! Petit, mais puissant !</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/prepa</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Bonjour</translation>
         </message>
     </context>
 </TS>
