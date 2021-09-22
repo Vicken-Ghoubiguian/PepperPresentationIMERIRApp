@@ -50,6 +50,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Association des anciens</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Les étudiants diplômés de l'IMÉRIR, constituent un grand réseau professionel, concrétisé sous la forme d'une association loi de 1901, nommé &quot;Alumni IMÉRIR&quot;. &quot;Alumni&quot;, signifie &quot;anciens élèves&quot;, en anglais. Créée en 1994, cette association, a pour tâche de maintenir le liens, entre tous les diplômés. Elle mène des actions, vers les diplômés de l'école, vers les imériens, vers les entreprises partenaires, et vers les cabinets de recrutement. &quot;Alumni IMÉRIR&quot; dispose, également, d'une adresse email, d'un numéro de téléphone, d'une page Facebook, d'une page Line keuh dine, et d'une boutique en ligne. Wahou ! Aujourd'hui, le réseau des anciens étudiants de l'IMÉRIR, comporte 1300 membres, répartis, dans tous les secteurs économiques (banques, assurances, santé, recherche, enseignement, sociétés de service informatique...). Vraiment ! Comme c'est top !</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Les étudiants diplômés de l'IMÉRIR, constituent un grand réseau professionel, concrétisé sous la forme d'une association loi de 1901, nommé &quot;Alumni IMÉRIR&quot;. &quot;Alumni&quot;, signifie &quot;anciens élèves&quot;, en anglais. Créée en 1994, cette association, a pour tâche de maintenir le liens, entre tous les diplômés. Elle mène des actions, vers les diplômés de l'école, vers les imériens, vers les entreprises partenaires, et vers les cabinets de recrutement. &quot;Alumni IMÉRIR&quot; dispose, également, d'une adresse email, d'un numéro de téléphone, d'une page Facebook, d'une page Line keuh dine, et d'une boutique en ligne. Wahou ! Aujourd'hui, le réseau des anciens étudiants de l'IMÉRIR, comporte 1300 membres, répartis, dans tous les secteurs économiques (banques, assurances, santé, recherche, enseignement, sociétés de service informatique...). Vraiment ! Comme c'est top !</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Formulaire</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
