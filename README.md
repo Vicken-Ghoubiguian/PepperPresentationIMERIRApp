@@ -45,7 +45,7 @@ The process is common to all the other applications to be installed on Pepper, r
 
 3. please connect the Pepper robot to the Choregraphe software now. You have to open the software in question to do this.
 
-4. 
+4. Now is the time to install the PepperPresentationIMERIRApp application on the Pepper robot. To do this, open it in the Choregraphe software, like illustrated in the screenshot below.
 
 5. 
 
