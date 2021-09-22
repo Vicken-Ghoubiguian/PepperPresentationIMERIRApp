@@ -59,6 +59,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Erasmus</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Les imériens étudiants dans la formation &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;) peuvent partir à l’étranger, dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, ils continuent d'étudier, mais dans une université ou une école d’accueil, tout en perfectionnant leur anglais, en découvrant de nouveaux pays, ainsi que de nouvelles cultures, tout en nouant de nouvelles relations. Quelle chance ! Non ? L’IMÉRIR est partenaire de plusieurs écoles et universités dans toute l’Europe, et avec lequel de riches échanges se font. Par exemple, il y a l’université des sciences appliquées de Laponie en Finlande, l'université des sciences appliquée HAMK, aussi en Finlande, l'Algebra University College en Croatie, ou encore de l’université d’Innopolis en Russie. Quelle aventure ! L'Erasmus a aussi son pendant pour les jeunes entrepreneurs, simplement intitulé &quot;Erasmus pour Jeunes Entrepreneurs&quot;. Cela leur permet d'acquérir toutes les compétences pour créer et gérer une entreprise en Europe. Les imériens jeunes entrepreneurs pourront alors acquérir, et échanger des connaissances, et des idées entrepreneuriales, avec un entrepreneur expérimenté en Europe, et auprès duquel, ils séjourneront pendant une période allant de 1 à 6 mois. Quelle formidable occasion !</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Les imériens étudiants dans la formation &quot;Manager de systèmes informatique et robotique&quot; (ou &quot;MSIR&quot;) peuvent partir à l’étranger, dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, ils continuent d'étudier, mais dans une université ou une école d’accueil, tout en perfectionnant leur anglais, en découvrant de nouveaux pays, ainsi que de nouvelles cultures, tout en nouant de nouvelles relations. Quelle chance ! Non ? L’IMÉRIR est partenaire de plusieurs écoles et universités dans toute l’Europe, et avec lequel de riches échanges se font. Par exemple, il y a l’université des sciences appliquées de Laponie en Finlande, l'université des sciences appliquée HAMK, aussi en Finlande, l'Algebra University College en Croatie, ou encore de l’université d’Innopolis en Russie. Quelle aventure ! L'Erasmus a aussi son pendant pour les jeunes entrepreneurs, simplement intitulé &quot;Erasmus pour Jeunes Entrepreneurs&quot;. Cela leur permet d'acquérir toutes les compétences pour créer et gérer une entreprise en Europe. Les imériens jeunes entrepreneurs pourront alors acquérir, et échanger des connaissances, et des idées entrepreneuriales, avec un entrepreneur expérimenté en Europe, et auprès duquel, ils séjourneront pendant une période allant de 1 à 6 mois. Quelle formidable occasion !</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Formulaire</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -70,19 +79,23 @@
     <context>
         <name>behavior_1/behavior.xar:/Informations supplémentaires sur le fablab</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation type="unfinished">Bonjour</translation>
+            <translation type="obsolete">Bonjour</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Le fablab de l’IMÉRIR, est situé juste en face, du Purple campus de Perpignan, où se trouve l’IMÉRIR. Il dispose actuellement de robots industriels, d'imprimantes 3D, d'une découpeuse laser, d'une fraiseuse numérique, de matériel électronique, et de plein d'autres choses encore. Impressionnant ! Animé par les apprentis embauchés à l'IMÉRIR, le responsable des études de l'école (qui est aussi, le responsable informatique de l'école), Monsieur Gilles Mateu, et un professeur permanant de l'IMÉRIR, Monsieur Adrien Datas. Ils sont tous là, pour  t'aider dans la réalisation de tes projets écoles ou personels, pour te faire monter en compétence, et pour te faire apprendre, des choses passionnantes. Tu l'as compris ! On trouve tout dans ce tiers-lieu, pour bricoler, prototyper, et réaliser des projets maikeur. Alors toi aussi, jettes toi dans l'aventure fablab !</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Le fablab de l’IMÉRIR, est situé juste en face, du Purple campus de Perpignan, où se trouve l’IMÉRIR. Il dispose actuellement de robots industriels, d'imprimantes 3D, d'une découpeuse laser, d'une fraiseuse numérique, de matériel électronique, et de plein d'autres choses encore. Impressionnant ! Animé par les apprentis embauchés à l'IMÉRIR, le responsable des études de l'école (qui est aussi, le responsable informatique de l'école), Monsieur Gilles Mateu, et un professeur permanant de l'IMÉRIR, Monsieur Adrien Datas. Ils sont tous là, pour  t'aider dans la réalisation de tes projets écoles ou personels, pour te faire monter en compétence, et pour te faire apprendre, des choses passionnantes. Tu l'as compris ! On trouve tout dans ce tiers-lieu, pour bricoler, prototyper, et réaliser des projets maikeur. Alors toi aussi, jettes toi dans l'aventure fablab !</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/Le Fablab</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</source>
             <comment>Text</comment>
-            <translation type="unfinished">L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</translation>
+            <translation type="obsolete">L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’innovation, de prototypage, ainsi que de production à petite échelle, et qui te permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes comme moi, des cobotes, et des robots industriels. Dans cet espace, les ressources matérielles, logicielles, et humaines sont mutualisées pour prototyper, expérimenter, travailler sur les projets donnés par l'école, ainsi que t'accompagner dans ton projet de prototypage, et de création d'entreprise. Plus ton projet est ambitieux et innovant, plus il est intéressant, et plus le Fablab se donnera pour défi de t'y accompagner, dans tous ses aspects, jusqu'à sa concrétisation complète. De grands moyens pour de grandes ambitions !</translation>
         </message>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
