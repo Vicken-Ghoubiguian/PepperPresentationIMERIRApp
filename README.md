@@ -36,6 +36,17 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 <a name="how_to_install_it"></a>
 ## How to install it ?
 
+Here, we will show you how to install the PepperPresentationIMERIRApp app on the Pepper robot. 
+The process is common to all the other applications to be installed on Pepper, running with version 2.5 of the NAOqi system. In addition, you can have just as ample information just here: https://github.com/Vicken-Ghoubiguian/pepperApplications#how_to_install_an_application_on_the_robot. So let's go...
+
+1. Please turn on the Pepper robot first;
+
+2. then wait for the robot to pronounce “Ognak Gnuk” and check its environment, this means that the robot is now on;
+
+3. please connect the Pepper robot to the Choregraphe software now. You have to open the software in question to do this.
+
+4. 
+
 <a name="useful_links"></a>
 ## Useful links
 
