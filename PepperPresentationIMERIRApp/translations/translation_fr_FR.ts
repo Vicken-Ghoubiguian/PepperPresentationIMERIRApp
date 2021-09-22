@@ -141,6 +141,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Professionnels</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>En tant qu'école, résolument tournée vers la professionnalisation de ses étudiants, les cours dispensés à l'IMÉRIR, le sont par des professionnels. L'école comporte 4 professeurs permanents et une trentaine d'intervenants extérieurs. Les professeurs permanents, eux, sont des enseignants salariés de l'école. Et en tant que tel, ils organisent, également, les enseignements dispensés, dans les différentes formations, et le programme pédagogique de ces derniers. Les enseignements correspondants, coïncident avec les techniques et concepts, utilisés dans le monde de l'entreprise. Les intervenants extérieurs, en revanche, travaillent dans le monde de l’entreprise la majeure partie de leur temps, mais font partager leur savoir avec les étudiants de l'IMÉRIR, dans le domaine sur lequel ils sont professionnellement spécialisés, et bien sûr compétents. Malgré le fait qu'ils travaillent la majeure partie de leur temps en entreprise, les intervenants extérieurs sont, aussi disponibles, que les professeurs permanents. Alors ! Tu en conviendras qu'un grand pouvoir, implique de grandes responsabilités !</source>
+            <comment>Text</comment>
+            <translation type="unfinished">En tant qu'école, résolument tournée vers la professionnalisation de ses étudiants, les cours dispensés à l'IMÉRIR, le sont par des professionnels. L'école comporte 4 professeurs permanents et une trentaine d'intervenants extérieurs. Les professeurs permanents, eux, sont des enseignants salariés de l'école. Et en tant que tel, ils organisent, également, les enseignements dispensés, dans les différentes formations, et le programme pédagogique de ces derniers. Les enseignements correspondants, coïncident avec les techniques et concepts, utilisés dans le monde de l'entreprise. Les intervenants extérieurs, en revanche, travaillent dans le monde de l’entreprise la majeure partie de leur temps, mais font partager leur savoir avec les étudiants de l'IMÉRIR, dans le domaine sur lequel ils sont professionnellement spécialisés, et bien sûr compétents. Malgré le fait qu'ils travaillent la majeure partie de leur temps en entreprise, les intervenants extérieurs sont, aussi disponibles, que les professeurs permanents. Alors ! Tu en conviendras qu'un grand pouvoir, implique de grandes responsabilités !</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Qui sommes nous ?</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -156,6 +165,14 @@
             <source>Pour t'inscrire, c'est très facile. Il te suffit de remplir un dossier d'inscription, depuis le site officiel de l'IMÉRIR, dans le menu &quot;Admissions&quot;, puis le sous-menu &quot;Demander mon dossier&quot;. Tu renseignes alors, la formation que tu demandes, ton nom de famille, ton prénom, et ton adresse email. Ton dossier d'inscription, te sera alors envoyé par email, et tu dois alors l'imprimer. Tu peux aussi demander, à mes collègues humains, s'ils n'en ont pas à disposition. Il te suffit alors de le remplir, puis de nous le retourner, avec tous les documents demandés, par la Poste, à l'adresse suivante: IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Je répète, IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Une fois le dossier d'inscription reçu, l'école traite ta demande. Il faut que tu aies fait, des études scientifiques, et que tu aies bien réussi ta scolarité, pour que ton dossier soit accepté. S'il est accepté, l'IMÉRIR t'invite, pour passer une session d'admission, dans ses locaux. Ton esprit logique, ta maitrise de l'anglais, ta maitrise du français, et ta capacité de raisonnement, sont alors mis à rude épreuve. Finalement, ta motivation est évaluée, au cours d'un entretien individuel avec l'équipe pédagogique de l'école. Dans la journée, tu es ensuite, informé de la décision de l'IMÉRIR, de te laisser intégrer l'école comme étudiant, ou non. C'est donc tout simple !</source>
             <comment>Text</comment>
             <translation type="unfinished">Pour t'inscrire, c'est très facile. Il te suffit de remplir un dossier d'inscription, depuis le site officiel de l'IMÉRIR, dans le menu &quot;Admissions&quot;, puis le sous-menu &quot;Demander mon dossier&quot;. Tu renseignes alors, la formation que tu demandes, ton nom de famille, ton prénom, et ton adresse email. Ton dossier d'inscription, te sera alors envoyé par email, et tu dois alors l'imprimer. Tu peux aussi demander, à mes collègues humains, s'ils n'en ont pas à disposition. Il te suffit alors de le remplir, puis de nous le retourner, avec tous les documents demandés, par la Poste, à l'adresse suivante: IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Je répète, IMÉRIR, 1, Avenue Paul Pascot, boîte postale 90443, 66004, Perpignan CEDEX. Une fois le dossier d'inscription reçu, l'école traite ta demande. Il faut que tu aies fait, des études scientifiques, et que tu aies bien réussi ta scolarité, pour que ton dossier soit accepté. S'il est accepté, l'IMÉRIR t'invite, pour passer une session d'admission, dans ses locaux. Ton esprit logique, ta maitrise de l'anglais, ta maitrise du français, et ta capacité de raisonnement, sont alors mis à rude épreuve. Finalement, ta motivation est évaluée, au cours d'un entretien individuel avec l'équipe pédagogique de l'école. Dans la journée, tu es ensuite, informé de la décision de l'IMÉRIR, de te laisser intégrer l'école comme étudiant, ou non. C'est donc tout simple !</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Say</name>
+        <message>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="vanished">Bonjour</translation>
         </message>
     </context>
     <context>
