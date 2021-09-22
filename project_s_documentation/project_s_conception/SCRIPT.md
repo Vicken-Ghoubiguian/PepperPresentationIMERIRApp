@@ -109,6 +109,8 @@ L’IMÉRIR dispose d’un fablab, un espace numérique dédié à des fins d’
 <a name="veux_tu_en_savoir_plus"></a>
 ### Veux-tu en savoir plusse ?
 
+
+
 <a name="informations_supplementaires_sur_le_fablab"></a>
 #### Informations supplémentaires sur le fablab
 
