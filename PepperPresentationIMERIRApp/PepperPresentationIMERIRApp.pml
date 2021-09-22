@@ -33,6 +33,8 @@
         <File name="pepper_choices" src="boxes_images/pepper_choices.png" />
         <File name="ARE" src="boxes_images/ARE.png" />
         <File name="infos_supplementaires_fablab" src="boxes_images/infos_supplementaires_fablab.png" />
+        <File name="prepa" src="boxes_images/prepa.png" />
+        <File name="license_info_rob" src="boxes_images/license_info_rob.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
