@@ -13,6 +13,8 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 6. [How was this project developed ?](#how_was_this_project_developed)
 7. [How to install it ?](#how_to_install_it)
 8. [Manual](#manual)
+    * [How to start the application ?](#how_to_start_the_application),
+    * [How to stop the application ?](#how_to_stop_the_application).
 9. [Useful links](#useful_links),
 10. [Conclusion](#conclusion).
 
