@@ -51,6 +51,15 @@ The process is common to all the other applications to be installed on Pepper, r
 <a name="manual"></a>
 ## Manual
 
+This section is the user guide for the application. This section is the user guide for the application. All the questions you ask yourself about it are discussed there. 
+So don't hesitate to take a look at it depending on the question you have, or the problem you are having.
+
+<a name="how_to_start_the_application"></a>
+### How to start the application ?
+
+<a name="how_to_stop_the_application"></a>
+### How to stop the application ?
+
 <a name="useful_links"></a>
 ## Useful links
 
