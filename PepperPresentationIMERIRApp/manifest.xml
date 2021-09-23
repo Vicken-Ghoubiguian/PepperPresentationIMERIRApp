@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.1" uuid="pepperpresentationimerirapp">
+<package uuid="pepperpresentationimerirapp" version="0.0.1">
  <names>
   <name lang="en_US">PepperPresentationIMERIRApp</name>
  </names>
@@ -22,6 +22,6 @@
   </behaviorContent>
  </contents>
  <requirements>
-  <naoqiRequirement minVersion="2.5" maxVersion="2.5"/>
+  <naoqiRequirement maxVersion="2.5" minVersion="2.5"/>
  </requirements>
 </package>
