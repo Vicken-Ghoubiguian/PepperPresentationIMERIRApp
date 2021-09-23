@@ -48,6 +48,9 @@ The process is common to all the other applications to be installed on Pepper, r
 
 4. 
 
+<a name="manual"></a>
+## Manual
+
 <a name="useful_links"></a>
 ## Useful links
 
