@@ -27,6 +27,17 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 <a name="application_s_definition"></a>
 ## Application's definition
 
+This application is for the Pepper robot to permit it to present the [IMERIR](https://www.imerir.com/) school to prospects, cosplayers, professionals and all other interested audiences.
+This application:
+
+* use the robot's voice command to allow the interlocutor to ask his question or state his answer,
+* display graphical interfaces to allow the interlocutor to make his choice to ask his question or state his answer if there is too much noise,
+* interact with the interlocutor using the voice interface while displaying well-designed graphical interfaces to illustrate the point,
+* is based on a detailed scenario to explain and question with the corresponding graphical interfaces according to a well-written text,
+* is based on a detailed grafcet to establish a rigorous order in the presentation of the explanations and the questions asked as well as the beginning and the end of the program.
+
+__warning__: this application works exclusively on Pepper robots running on the version 2.5 of its OS NAOqi.
+
 <a name="git_repos_s_structure"></a>
 ## Git repos's structure
 
