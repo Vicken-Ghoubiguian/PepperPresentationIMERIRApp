@@ -55,8 +55,6 @@ __warning__: this application works exclusively on Pepper robots running on the 
 <a name="how_was_this_project_developed"></a>
 ## How was this project developed ?
 
-
-
 <a name="project_s_components"></a>
 ## Project's components
 
