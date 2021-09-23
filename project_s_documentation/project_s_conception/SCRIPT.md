@@ -76,7 +76,7 @@ Le diplôme "Manadgeure de systèmes informatique et robotique" (ou "MSIR"), opt
 <a name="prepa_analyste_developpeur_d_applications_informatiques"></a>
 #### Prépa analyste développeur d’applications informatiques
 
-Le diplôme "Analyste développeur d’applications informatiques", est un diplôme Bac +2, et donc, de niveau "technicien", qui te permet de recevoir une formation solide, et polyvalente,
+Le diplôme "Analyste développeur d’applications informatiques", est un diplôme Bac +2, et donc, de niveau "technicien", qui te permet de recevoir une formation solide, et polyvalente, en développement informatique (), en culture maikeur, et en gestion de projet ().
 
 <a name="license_informatique_specialite_robotique_de_prototypage"></a>
 #### License informatique spécialité robotique de prototypage
