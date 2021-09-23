@@ -72,7 +72,7 @@ Let's go back to the interface shown above. In the table on the left, you must c
 
 * or it is colored red with closed eyes (opposite <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_3.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_3.png" width="73" height="73" align="center" />): you cannot connect to this robot because its NAOqi OS is stopped.
 
-4. 
+4. Now is the time to install the application on the Pepper robot.
 
 <a name="manual"></a>
 ## Manual
