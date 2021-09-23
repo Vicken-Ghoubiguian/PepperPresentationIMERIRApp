@@ -38,7 +38,7 @@ As shown in some photos below, the Pepper robot from IMERIR is emulated wherever
 <a name="application_s_definition"></a>
 ## Application's definition
 
-This application is for the Pepper robot to permit it to present the [IMERIR](https://www.imerir.com/) school to prospects, cosplayers, professionals and all other interested audiences.
+This application is for the Pepper robot to permit it to present the IMERIR school to prospects, cosplayers, professionals and all other interested audiences.
 This application:
 
 * use the robot's voice command to allow the interlocutor to ask his question or state his answer,
