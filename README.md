@@ -44,7 +44,11 @@ The process is common to all the other applications to be installed on Pepper, r
 
 1. Please turn on the Pepper robot first;
 
+
+
 2. then wait for the robot to pronounce “Ognak Gnuk” and check its environment, this means that the robot is now on;
+
+
 
 3. please connect the Pepper robot to the Choregraphe software now. You have to open the software in question to do this.
 
