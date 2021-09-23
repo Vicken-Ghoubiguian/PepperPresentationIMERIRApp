@@ -12,8 +12,9 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 5. [Project's components](#project_s_components),
 6. [How was this project developed ?](#how_was_this_project_developed)
 7. [How to install it ?](#how_to_install_it)
-8. [Useful links](#useful_links),
-9. [Conclusion](#conclusion).
+8. [Manual](#manual)
+9. [Useful links](#useful_links),
+10. [Conclusion](#conclusion).
 
 <a name="introduction"></a>
 ## Introduction
