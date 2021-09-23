@@ -44,13 +44,15 @@ The process is common to all the other applications to be installed on Pepper, r
 
 1. Please turn on the Pepper robot first;
 
-
+<img src="project_s_documentation/images_to_display_in_github_repos/1.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/1.png" width="452" height="319" align="center" />
 
 2. then wait for the robot to pronounce “Ognak Gnuk” and check its environment, this means that the robot is now on;
 
-
+<img src="project_s_documentation/images_to_display_in_github_repos/2.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/2.png" width="384" height="512" align="center" />
 
 3. please connect the Pepper robot to the Choregraphe software now. You have to open the software in question to do this.
+
+<img src="project_s_documentation/images_to_display_in_github_repos/3.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/3.png" width="512" height="321" align="center" />
 
 4. 
 
