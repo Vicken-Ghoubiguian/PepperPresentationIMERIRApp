@@ -54,6 +54,24 @@ The process is common to all the other applications to be installed on Pepper, r
 
 <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/3.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/3.png" width="512" height="321" align="center" />
 
+Then click on the button <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/3_bis.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/3_bis.png" width="42" height="35" align="center" /> indicated on the screenshot below.
+
+<img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/4.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/4.png" width="512" height="321" align="center" />
+
+The window shown in the screenshot below then opens.
+
+<img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/5.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/5.png" width="512" height="340" align="center" />
+
+So please select the robot colored in green (or the one you want which is also colored in green) and then press the “Select” button as shown below.
+
+<img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6.png" width="512" height="340" align="center" />
+
+Let's go back to the interface shown above. In the table on the left, you must choose the robot you want to connect to Choregraphe. In the “status” column, there are several robots, each represented by a head of Nao robots. The dotted robot (opposite <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_1.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_1.png" width="73" height="73" align="center" />) corresponds to the virtual robot, a simulation of the Pepper robot installed by default with Chorégraphe and which is just as interfaceable, controllable and programmable as a physical robot. A real physical Pepper robot is full line and:
+
+* either it is colored green with the eyes open (opposite <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_2.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_2.png" width="73" height="73" align="center" />): you can connect to this robot because its NAOqi OS is running,
+
+* or it is colored red with closed eyes (opposite <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_3.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/6_bis_3.png" width="73" height="73" align="center" />): you cannot connect to this robot because its NAOqi OS is stopped.
+
 4. 
 
 <a name="manual"></a>
