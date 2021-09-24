@@ -157,6 +157,47 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Les universités et écoles partenaires de l'IMERIR</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Alors, les écoles et universités partenaires de l'IMÉRIR, dans le cadre d'Erasmus, sont:
+
+l'Université de Bonn, à Bonn, en Allemagne,
+l'Algebra university college, à Zagreb, en Croatie,
+l'Université d'Aalborg, à Aalborg, au Danemark,
+l'Université de Gérone, à Gérone, en Espagne,
+l'Université de Tallinn, à Tallinn, en Estonie,
+l'Université des sciences appliquées HAMK, à Hämeenlinna, en Finlande,
+l'Université des sciences appliquées de Laponie, à Rovaniemi, en Finlande,
+l'Université d'Óbuda, à Budapest, en Hongrie,
+l'Institute of Technology, Blanchardstown (ITB), à Dublin, en Irlande,
+la Hanze University of Applied Sciences, à Groningue, aux Pays-Bas,
+l’École polytechnique de Cracovie, à Cracovie, en Pologne,
+l'Institut polytechnique de Bragance, à Bragance, au Portugal,
+l'Université Babeș-Bolyai, à Cluj-Napoca, en Roumanie,
+l'Université d'Innopolis, à Innopolis, en Russie.
+Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les goûts.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Alors, les écoles et universités partenaires de l'IMÉRIR, dans le cadre d'Erasmus, sont:
+
+l'Université de Bonn, à Bonn, en Allemagne,
+l'Algebra university college, à Zagreb, en Croatie,
+l'Université d'Aalborg, à Aalborg, au Danemark,
+l'Université de Gérone, à Gérone, en Espagne,
+l'Université de Tallinn, à Tallinn, en Estonie,
+l'Université des sciences appliquées HAMK, à Hämeenlinna, en Finlande,
+l'Université des sciences appliquées de Laponie, à Rovaniemi, en Finlande,
+l'Université d'Óbuda, à Budapest, en Hongrie,
+l'Institute of Technology, Blanchardstown (ITB), à Dublin, en Irlande,
+la Hanze University of Applied Sciences, à Groningue, aux Pays-Bas,
+l’École polytechnique de Cracovie, à Cracovie, en Pologne,
+l'Institut polytechnique de Bragance, à Bragance, au Portugal,
+l'Université Babeș-Bolyai, à Cluj-Napoca, en Roumanie,
+l'Université d'Innopolis, à Innopolis, en Russie.
+Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les goûts.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/License informatique option robotique de prototypage</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
