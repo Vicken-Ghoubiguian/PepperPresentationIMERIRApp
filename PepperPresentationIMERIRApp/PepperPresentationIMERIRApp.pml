@@ -37,6 +37,7 @@
         <File name="telephone" src="html/images/boxes_images/telephone.png" />
         <File name="tie" src="html/images/boxes_images/tie.png" />
         <File name="image_a_afficher" src="html/images/boxes_images/image_a_afficher.png" />
+        <File name="remise_des_diplomes" src="html/images/boxes_images/remise_des_diplomes.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
