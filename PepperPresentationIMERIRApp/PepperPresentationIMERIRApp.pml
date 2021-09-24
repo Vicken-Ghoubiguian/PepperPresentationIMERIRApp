@@ -35,7 +35,6 @@
         <File name="infos_supplementaires_fablab" src="boxes_images/infos_supplementaires_fablab.png" />
         <File name="prepa" src="boxes_images/prepa.png" />
         <File name="license_info_rob" src="boxes_images/license_info_rob.png" />
-        <File name="app_background_image" src="images/app_background_image.png" />
         <File name="app_background_image" src="html/images/app_background_image.png" />
     </Resources>
     <Topics />
