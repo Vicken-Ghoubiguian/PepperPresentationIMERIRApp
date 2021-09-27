@@ -22,6 +22,7 @@
         <File name="robotics_image" src="html/images/robotics_image.png" />
         <File name="prepa_image" src="html/images/prepa_image.png" />
         <File name="license_info_rob_image" src="html/images/license_info_rob_image.png" />
+        <File name="pepper_choices_1" src="html/images/pepper_choices_1.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
