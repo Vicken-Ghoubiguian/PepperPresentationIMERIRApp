@@ -25,6 +25,7 @@
         <File name="pepper_choices_1" src="html/images/pepper_choices_1.png" />
         <File name="imerir_quesaquo_image" src="html/images/imerir_quesaquo_image.png" />
         <File name="professionnels_image" src="html/images/professionnels_image.png" />
+        <File name="fablab_image" src="html/images/fablab_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
