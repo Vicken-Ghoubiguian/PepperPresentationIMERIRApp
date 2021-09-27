@@ -38,6 +38,7 @@
         <File name="telephone_image" src="html/images/telephone_image.png" />
         <File name="la_poste_image" src="html/images/la_poste_image.png" />
         <File name="formulaire_image" src="html/images/formulaire_image.PNG" />
+        <File name="remise_des_diplomes_image" src="html/images/remise_des_diplomes_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
