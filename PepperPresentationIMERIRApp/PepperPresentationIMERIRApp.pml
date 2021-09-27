@@ -14,6 +14,7 @@
         <File name="choices_background_image" src="html/images/choices_background_image.png" />
         <File name="welcome_to_l_imerir_image" src="html/images/welcome_to_l_imerir_image.png" />
         <File name="good_bye_image" src="html/images/good_bye_image.png" />
+        <File name="contact_us" src="html/images/contact_us.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
