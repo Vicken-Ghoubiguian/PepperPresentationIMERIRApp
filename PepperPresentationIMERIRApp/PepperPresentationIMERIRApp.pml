@@ -8,11 +8,12 @@
     <Resources>
         <File name="icon" src="icon.png" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
-        <File name="app_background_image" src="html/images/app_background_image.png" />
         <File name="" src=".DS_Store" />
         <File name="" src="html/.DS_Store" />
         <File name="" src="html/images/.DS_Store" />
         <File name="choices_background_image" src="html/images/choices_background_image.png" />
+        <File name="welcome_to_l_imerir_image" src="html/images/welcome_to_l_imerir_image.png" />
+        <File name="good_bye_image" src="html/images/good_bye_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
