@@ -20,6 +20,8 @@
         <File name="ia_image" src="html/images/ia_image.png" />
         <File name="iot_image" src="html/images/iot_image.png" />
         <File name="robotics_image" src="html/images/robotics_image.png" />
+        <File name="prepa_image" src="html/images/prepa_image.png" />
+        <File name="license_info_rob_image" src="html/images/license_info_rob_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
