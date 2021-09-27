@@ -35,6 +35,7 @@
         <File name="pepper_choices_7" src="html/images/pepper_choices_7.png" />
         <File name="Erasmus_image" src="html/images/Erasmus_image.png" />
         <File name="erasmus_colleges_image" src="html/images/erasmus_colleges_image.png" />
+        <File name="telephone_image" src="html/images/telephone_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
