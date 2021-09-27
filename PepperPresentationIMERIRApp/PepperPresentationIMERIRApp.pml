@@ -16,6 +16,10 @@
         <File name="good_bye_image" src="html/images/good_bye_image.png" />
         <File name="contact_us" src="html/images/contact_us.png" />
         <File name="imerir_formations" src="html/images/imerir_formations.png" />
+        <File name="cybersecurite_image" src="html/images/cybersecurite_image.png" />
+        <File name="ia_image" src="html/images/ia_image.png" />
+        <File name="iot_image" src="html/images/iot_image.png" />
+        <File name="robotics_image" src="html/images/robotics_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
