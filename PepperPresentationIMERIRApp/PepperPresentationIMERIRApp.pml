@@ -24,6 +24,7 @@
         <File name="license_info_rob_image" src="html/images/license_info_rob_image.png" />
         <File name="pepper_choices_1" src="html/images/pepper_choices_1.png" />
         <File name="imerir_quesaquo_image" src="html/images/imerir_quesaquo_image.png" />
+        <File name="professionnels_image" src="html/images/professionnels_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
