@@ -37,6 +37,7 @@
         <File name="erasmus_colleges_image" src="html/images/erasmus_colleges_image.png" />
         <File name="telephone_image" src="html/images/telephone_image.png" />
         <File name="la_poste_image" src="html/images/la_poste_image.png" />
+        <File name="formulaire_image" src="html/images/formulaire_image.PNG" />
     </Resources>
     <Topics />
     <IgnoredPaths />
