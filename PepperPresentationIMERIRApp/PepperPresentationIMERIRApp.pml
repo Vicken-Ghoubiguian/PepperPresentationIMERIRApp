@@ -29,6 +29,12 @@
         <File name="pepper_choices_2" src="html/images/pepper_choices_2.png" />
         <File name="pepper_choices_3" src="html/images/pepper_choices_3.png" />
         <File name="alumni_image" src="html/images/alumni_image.png" />
+        <File name="pepper_choices_4" src="html/images/pepper_choices_4.png" />
+        <File name="pepper_choices_5" src="html/images/pepper_choices_5.png" />
+        <File name="pepper_choices_6" src="html/images/pepper_choices_6.png" />
+        <File name="pepper_choices_7" src="html/images/pepper_choices_7.png" />
+        <File name="Erasmus_image" src="html/images/Erasmus_image.png" />
+        <File name="erasmus_colleges_image" src="html/images/erasmus_colleges_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
