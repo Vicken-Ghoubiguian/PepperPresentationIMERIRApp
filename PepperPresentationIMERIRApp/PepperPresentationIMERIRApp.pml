@@ -40,6 +40,7 @@
         <File name="formulaire_image" src="html/images/formulaire_image.PNG" />
         <File name="remise_des_diplomes_image" src="html/images/remise_des_diplomes_image.png" />
         <File name="infos_supplementaires_fablab_image" src="html/images/infos_supplementaires_fablab_image.png" />
+        <File name="admission_image" src="html/images/admission_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
