@@ -39,6 +39,7 @@
         <File name="la_poste_image" src="html/images/la_poste_image.png" />
         <File name="formulaire_image" src="html/images/formulaire_image.PNG" />
         <File name="remise_des_diplomes_image" src="html/images/remise_des_diplomes_image.png" />
+        <File name="infos_supplementaires_fablab_image" src="html/images/infos_supplementaires_fablab_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
