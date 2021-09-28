@@ -41,6 +41,7 @@
         <File name="remise_des_diplomes_image" src="html/images/remise_des_diplomes_image.png" />
         <File name="infos_supplementaires_fablab_image" src="html/images/infos_supplementaires_fablab_image.png" />
         <File name="admission_image" src="html/images/admission_image.png" />
+        <File name="pepper_choices_8" src="html/images/pepper_choices_8.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
