@@ -45,6 +45,8 @@
         <File name="remise_des_diplomes_2_image" src="html/images/remise_des_diplomes_2_image.png" />
         <File name="inscription_image" src="html/images/inscription_image.png" />
         <File name="remplissage_formulaire_image" src="html/images/remplissage_formulaire_image.png" />
+        <File name="alternance_image" src="html/images/alternance_image.png" />
+        <File name="ARE_image" src="html/images/ARE_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
