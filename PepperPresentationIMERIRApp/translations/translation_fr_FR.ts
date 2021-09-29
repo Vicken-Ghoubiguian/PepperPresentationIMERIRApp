@@ -11,6 +11,15 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Adresse email</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Également, tu peux contacter l'IMÉRIR, juste en écrivant un i-mail, et en l'envoyant. L'adresse i-mail de l'IMÉRIR, est, imerir@imerir.com. Je répète, imerir@imerir.com. Tu peux, ainsi, nous contacter, pour toute question que tu souhaites poser. Un petit pas pour l'IMÉRIR, mais un grand pas pour toi.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Également, tu peux contacter l'IMÉRIR, juste en écrivant un i-mail, et en l'envoyant. L'adresse i-mail de l'IMÉRIR, est, imerir@imerir.com. Je répète, imerir@imerir.com. Tu peux, ainsi, nous contacter, pour toute question que tu souhaites poser. Un petit pas pour l'IMÉRIR, mais un grand pas pour toi.</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Adresse postale</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
@@ -22,10 +31,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation>Bonjour</translation>
+            <translation type="vanished">Bonjour</translation>
         </message>
         <message>
             <source>Bonjour à toi, humain ! Je m'appelle Pepper. Je suis un robot humanoïde, un système complexe associant la mécanique, l'électronique, et l'informatique. L'informatique ? Parlons-en ! Ma grande force, c'est l'intelligence qu'on m'a développée, et qui me permet de te parler et de t'exposer des choses. Mais qui me permet également de recueillir ton avis, de te répondre à une question, et de réagir selon les différentes émotions que tu peux éprouver. Mon intelligence, tu l'as compris, a été programmé, par des programmeurs. Et toi aussi, tu peux apprendre le développement informatique, pour que développer un robot comme moi, n'ait plus de secrets pour toi. Tu l'as compris, je suis ici en tant qu'ambassadeur de l'IMÉRIR. Acronyme d'institut méditerranéen d'étude et de recherche en informatique et robotique, cette école te permet, justement, de te former aux métiers du développement informatique, de la robotique, des objets connectés et de l'intelligence artificielle, pour que toi aussi, tu sois capable de me programmer, voire, de développer des choses plus balèzes encore. Quelles choses passionnantes !</source>
