@@ -44,6 +44,7 @@
         <File name="pepper_choices_8" src="html/images/pepper_choices_8.png" />
         <File name="remise_des_diplomes_2_image" src="html/images/remise_des_diplomes_2_image.png" />
         <File name="inscription_image" src="html/images/inscription_image.png" />
+        <File name="remplissage_formulaire_image" src="html/images/remplissage_formulaire_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
