@@ -208,7 +208,7 @@ Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, a
 <a name="adresse_email"></a>
 #### Adresse email
 
-
+Également, tu peux contacter l'IMÉRIR, juste en écrivant un email, et en l'envoyant. L'adresse email de l'IMÉRIR, est, imerir@imerir.com. Je répète, imerir@imerir.com. Tu peux, ainsi, nous contacter, pour toute question que tu souhaites poser. Un petit pas pour l'IMÉRIR, mais un grand pas pour toi.
 
 <a name="reseaux_sociaux"></a>
 #### Réseaux sociaux
