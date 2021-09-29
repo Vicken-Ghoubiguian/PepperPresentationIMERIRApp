@@ -22,10 +22,9 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
             <comment>Text</comment>
-            <translation>Bonjour</translation>
+            <translation type="vanished">Bonjour</translation>
         </message>
         <message>
             <source>Bonjour à toi, humain ! Je m'appelle Pepper. Je suis un robot humanoïde, un système complexe associant la mécanique, l'électronique, et l'informatique. L'informatique ? Parlons-en ! Ma grande force, c'est l'intelligence qu'on m'a développée, et qui me permet de te parler et de t'exposer des choses. Mais qui me permet également de recueillir ton avis, de te répondre à une question, et de réagir selon les différentes émotions que tu peux éprouver. Mon intelligence, tu l'as compris, a été programmé, par des programmeurs. Et toi aussi, tu peux apprendre le développement informatique, pour que développer un robot comme moi, n'ait plus de secrets pour toi. Tu l'as compris, je suis ici en tant qu'ambassadeur de l'IMÉRIR. Acronyme d'institut méditerranéen d'étude et de recherche en informatique et robotique, cette école te permet, justement, de te former aux métiers du développement informatique, de la robotique, des objets connectés et de l'intelligence artificielle, pour que toi aussi, tu sois capable de me programmer, voire, de développer des choses plus balèzes encore. Quelles choses passionnantes !</source>
@@ -330,6 +329,15 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
             <comment>Text</comment>
             <translation type="unfinished">Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour la promotion sortante. Elle a lieu, tous les ans, au palais des rois de Mayorque, à Perpignan. Lors de cette cérémonie, la promotion sortante, est diplômée, et la promotion entrante, est adoubée. Ainsi, après un discours très inspiré de l'équipe dirigeante de l'IMÉRIR, et du parrain de la promotion, chacun des diplômés, reçoit son diplôme, de la main de l'équipe pédagogique, sur les estrades. Une fois cela fait, la nouvelle promotion, celle qui entre à l'IMÉRIR, se présente en masse sur les estrades, prend la pose, puis se fait photographier, pour la postérité. Un discours de clôture accompagne, bien sûr, la fin de cette cérémonie. Une fois cette dernière terminée, les promotions sortante et entrante, partagent un verre ensemble, en compagnie de l'équipe pédagogique de l'école, de son équipe dirigeante, des parrains des promotions sortante et entrante, et de l'association &quot;Alumni IMÉRIR&quot;. Cool ! Quel moment festif, et convivial !</translation>
         </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Bonjour</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Bonjour</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Remplir le formulaire d'inscription et l'envoyer</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Bonjour</source>
