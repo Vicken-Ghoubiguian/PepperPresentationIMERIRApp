@@ -185,7 +185,7 @@ Pour l’admission, c’est très simple. Il faut tout d’abord remplir le doss
 <a name="nous_contacter"></a>
 ## Nous contacter
 
-Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu "Contact", et nous n'hésiterons pas à te lire et à te répondre. Si tu es par contre très curieux, tu peux aussi venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.
+Pour nous contacter, rien de plus simple. Tu peux nous téléphoner au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Tu peux également nous envoyer un message depuis le site officiel de l'école dans le menu "Contact", et nous n'hésiterons pas à te lire et à te répondre. Tu peux, aussi, envoyer un i-mail à l'IMÉRIR, à l'adresse i-mail suivante : imerir@imerir.com. Je répète, imerir@imerir.com. Si tu es par contre très curieux, tu peux nous suivre, sur les réseaux sociaux Facebook, Twitter, LinekedIn, et Instagram. Tu peux, aussi, venir nous voir directement dans nos locaux. Ils sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. Et voilà ! Maintenant, tu peux nous contacter quand tu veux.
 
 <a name="comment_souhaites_tu_prendre_contact_avec_nous"></a>
 ### Comment souhaites-tu prendre contact avec nous ?
