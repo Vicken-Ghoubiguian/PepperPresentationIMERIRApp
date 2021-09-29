@@ -33,7 +33,8 @@
     * [Comment souhaites-tu prendre contact avec nous ?](#comment_souhaites_tu_prendre_contact_avec_nous).
         1. [Numéro de téléphone](#numero_de_telephone),
         2. [Formulaire](#formulaire),
-        3. [Adresse postale](#adresse_postale).
+        3. [Adresse postale](#adresse_postale),
+        4. [Réseaux sociaux](#reseaux_sociaux).
 
 <hr>
 
@@ -202,6 +203,11 @@ Ainsi, tu peux aussi nous envoyer un message, en remplissant le formulaire dispo
 #### Adresse postale
 
 Donc, les locaux de l'IMÉRIR, sont situés sur le Purple campus de Perpignan, au 1, Avenue Paul Pascot, 66000, Perpignan. Je répète, au 1, Avenue Paul Pascot, 66000, Perpignan. L'école est ouverte, de 8 heures 15 à 17 heures 15, du lundi au vendredi. Donc, si tu es curieux, tu peux venir nous voir directement.
+
+<a name="reseaux_sociaux"></a>
+#### Réseaux sociaux
+
+Aussi, tu peux contacter l'école via les réseaux sociaux. L'IMÉRIR est présent sur Facebook, Twitter, LinekedIn, et Instagram. Tu peux, alors, jeter un coup d'oeil sur l'actualité de l'école, voire directement nous contacter, comme un petit aventurier. Alors, à ton smartphone ! Prêts ? Aller...
 
 <hr>
 
