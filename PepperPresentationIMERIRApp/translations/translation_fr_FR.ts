@@ -360,6 +360,15 @@ Décidément, l'Erasmus, c'est des opportunités européennes, pour tous les go�
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/Réseaux sociaux</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Aussi, tu peux contacter l'école via les réseaux sociaux. L'IMÉRIR est présent sur Facebook, Twitter, LinekedIn, et Instagram. Tu peux, alors, jeter un coup d'oeil sur l'actualité de l'école, voire directement nous contacter, comme un petit aventurier. Alors, à ton smartphone ! Prêts ? Aller...</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Aussi, tu peux contacter l'école via les réseaux sociaux. L'IMÉRIR est présent sur Facebook, Twitter, LinekedIn, et Instagram. Tu peux, alors, jeter un coup d'oeil sur l'actualité de l'école, voire directement nous contacter, comme un petit aventurier. Alors, à ton smartphone ! Prêts ? Aller...</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/S'inscrire</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>

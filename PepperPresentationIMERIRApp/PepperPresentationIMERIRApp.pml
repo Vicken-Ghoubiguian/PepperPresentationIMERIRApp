@@ -47,6 +47,8 @@
         <File name="remplissage_formulaire_image" src="html/images/remplissage_formulaire_image.png" />
         <File name="alternance_image" src="html/images/alternance_image.png" />
         <File name="ARE_image" src="html/images/ARE_image.png" />
+        <File name="social_network" src="html/images/social_network.jpg" />
+        <File name="social_network_image" src="html/images/social_network_image.jpg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
