@@ -43,6 +43,8 @@
         <File name="admission_image" src="html/images/admission_image.png" />
         <File name="pepper_choices_8" src="html/images/pepper_choices_8.png" />
         <File name="remise_des_diplomes_2_image" src="html/images/remise_des_diplomes_2_image.png" />
+        <File name=".behavior.xar.5676" src="behavior_1/.behavior.xar.5676.csp" />
+        <File name="inscription_image" src="html/images/inscription_image.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />
