@@ -155,6 +155,8 @@ Chaque année, l'IMÉRIR organise, une cérémonie de remise des diplômes, pour
 <a name="details_des_remise_des_diplomes"></a>
 #### Détails des remises des diplômes
 
+
+
 <a name="association_des_anciens"></a>
 ## Association des anciens
 
