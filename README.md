@@ -128,11 +128,11 @@ So the following interface is displayed.
 
 <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth.PNG" width="1123" height="743" align="center" />
 
-4. copy the text entered in the item titled "Localized text" (** ctrl + c **) as shown in the screenshot below.
+4. copy the text entered in the item titled "Localized text" (**ctrl + c**) as shown in the screenshot below.
 
 5. delete the text entered in the item titled "Localized text" and then save, as shown in the screenshot below,
 
-6. paste the text of the question (which you copied in step 4) still in the item titled "Localized text" (** ctrl + v **) and then save as explained on the screenshot below,
+6. paste the text of the question (which you copied in step 4) still in the item titled "Localized text" (**ctrl + v**) and then save as explained on the screenshot below,
 
 And here is the job ... the bug is solved as well 🐱. This operation must be repeated for all the "choice" boxes making up the application (8 in total).
 
