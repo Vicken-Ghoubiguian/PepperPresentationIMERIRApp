@@ -110,16 +110,8 @@ So don't hesitate to take a look at it depending on the question you have, or th
 ### How to stop the application ?
 
 <a name="issues_and_bugs"></a>
-## Issues and bugs
 
-<div class="panel panel-danger">
-**Danger**
-{: .panel-heading}
-<div class="panel-body">
-
-DANGER DESCRIPTION
-
-!x This is an error message.
+__Warning:__ By cloning this project from git on the Choregraphe software, a minimal bug is to be noted: by launching the application from the Choregraphe software (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/1.png" width="37" height="31" align="center" />) or by installing it directly on the robot (button <img src="project_s_documentation/images_to_display_in_github_repos/how_to_install_an_application/1.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.png" width="38" height="34" align="center" />) to launch it from the tablet, the robot crashes as soon as it executes a "choice" box (a block resembling that and allowing him to ask a question and answer orally). 
 
 <a name="useful_links"></a>
 ## Useful links
