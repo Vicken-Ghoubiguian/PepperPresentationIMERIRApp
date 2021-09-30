@@ -136,6 +136,8 @@ So the following interface is displayed.
 
 6. paste the text of the question (which you copied in step 4) still in the item titled "Localized text" (**ctrl + v**) and then save as explained on the screenshot below,
 
+<img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" width="1128" height="738" align="center" />
+
 And here is the job ... the bug is solved as well 🐱. This operation must be repeated for all the "choice" boxes making up the application (8 in total).
 
 <a name="useful_links"></a>
