@@ -120,11 +120,23 @@ __Warning:__ By cloning this project from git on the Choregraphe software, a min
 
 2. open the project on the Chorégraphe software (follow the screenshots below in order),
 
-3. 
+3. click on the "choice" box in question (Here we will take the "Quel diplôme t'intéresse ?" one),
+
+
+
+So the following interface is displayed.
+
+
 
 4. 
 
 5. 
+
+6. 
+
+7.
+
+
 
 
 <a name="useful_links"></a>
