@@ -112,7 +112,15 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="issues_and_bugs"></a>
 ## Issues and bugs
 
-__warning:__
+<div class="panel panel-danger">
+**Danger**
+{: .panel-heading}
+<div class="panel-body">
+
+DANGER DESCRIPTION
+
+</div>
+</div>
 
 <a name="useful_links"></a>
 ## Useful links
