@@ -113,6 +113,19 @@ So don't hesitate to take a look at it depending on the question you have, or th
 
 __Warning:__ By cloning this project from git on the Choregraphe software, a minimal bug is to be noted: by launching the application from the Choregraphe software (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" width="37" height="31" align="center" />) or by installing it directly on the robot (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" width="38" height="34" align="center" />) to launch it from the tablet, the robot crashes as soon as it executes a "choice" box (a block resembling that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" width="124" height="102" align="center" /> or that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" width="98" height="77" align="center" /> and allowing it to ask a question and answer orally). To remedy this problem, you must then double-click on the "choice" box, copy the text of the question, delete it, save, then paste the text of this question again, then save again. This procedure is illustrated in the screenshots below...
 
+1. clone the project from GitHub on your computer,
+
+<img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/5.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/5.PNG" width="609" height="24" align="center" />
+
+2. open the project on the Chorégraphe software (follow the screenshots below in order),
+
+3. 
+
+4. 
+
+5. 
+
+
 <a name="useful_links"></a>
 ## Useful links
 
