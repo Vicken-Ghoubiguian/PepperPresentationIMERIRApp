@@ -15,8 +15,9 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 8. [Manual](#manual)
     * [How to start the application ?](#how_to_start_the_application),
     * [How to stop the application ?](#how_to_stop_the_application).
-9. [Useful links](#useful_links),
-10. [Conclusion](#conclusion).
+9. [Issues and bugs](#issues_and_bugs),    
+10. [Useful links](#useful_links),
+11. [Conclusion](#conclusion).
 
 <a name="introduction"></a>
 ## Introduction
@@ -107,6 +108,11 @@ So don't hesitate to take a look at it depending on the question you have, or th
 
 <a name="how_to_stop_the_application"></a>
 ### How to stop the application ?
+
+<a name="issues_and_bugs"></a>
+## Issues and bugs
+
+__warning:__
 
 <a name="useful_links"></a>
 ## Useful links
