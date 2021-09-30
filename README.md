@@ -128,16 +128,13 @@ So the following interface is displayed.
 
 
 
-4. 
+4. copy the text entered in the item titled "Localized text" as shown in the screenshot below.
 
-5. 
+5. delete the text entered in the item titled "Localized text" and then save, as shown in the screenshot below,
 
-6. 
+6. paste the text of the question (which you copied in step 4) still in the item titled "Localized text" and then save as explained on the screenshot below,
 
-7.
-
-
-
+And here is the job ... the bug is solved as well 🐱. This operation must be repeated for all the "choice" boxes making up the application (8 in total).
 
 <a name="useful_links"></a>
 ## Useful links
