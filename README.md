@@ -119,8 +119,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 
 DANGER DESCRIPTION
 
-</div>
-</div>
+!x This is an error message.
 
 <a name="useful_links"></a>
 ## Useful links
