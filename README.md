@@ -130,6 +130,8 @@ So the following interface is displayed.
 
 4. copy the text entered in the item titled "Localized text" (**ctrl + c**) as shown in the screenshot below.
 
+<img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" width="1128" height="738" align="center" />
+
 5. delete the text entered in the item titled "Localized text" and then save (**ctrl + s** or the button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/save_button.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/save_button.PNG" width="36" height="34" align="center" />), as shown in the screenshot below,
 
 6. paste the text of the question (which you copied in step 4) still in the item titled "Localized text" (**ctrl + v**) and then save as explained on the screenshot below,
