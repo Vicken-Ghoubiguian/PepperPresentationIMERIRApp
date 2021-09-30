@@ -122,11 +122,11 @@ __Warning:__ By cloning this project from git on the Choregraphe software, a min
 
 3. click on the "choice" box in question (Here we will take the "Quel diplôme t'intéresse ?" one),
 
-
+<img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth_1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth_1.PNG" width="104" height="125" align="center" />
 
 So the following interface is displayed.
 
-
+<img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth.PNG" width="1123" height="743" align="center" />
 
 4. copy the text entered in the item titled "Localized text" as shown in the screenshot below.
 
