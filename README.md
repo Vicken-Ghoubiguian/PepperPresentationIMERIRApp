@@ -15,6 +15,7 @@ Application developed for the Pepper robot, manufactured and marketed by the com
 8. [Manual](#manual)
     * [How to start the application ?](#how_to_start_the_application)
     * [How to stop the application ?](#how_to_stop_the_application)
+    * [Each answer for each question](#each_answer_for_each_question).
 9. [Issues and bugs](#issues_and_bugs),    
 10. [Useful links](#useful_links),
 11. [Conclusion](#conclusion).
