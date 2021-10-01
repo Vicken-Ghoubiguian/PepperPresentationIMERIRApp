@@ -112,7 +112,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
 
-__Warning:__ By cloning this project from git on the Choregraphe software, a minimal bug is to be noted: by launching the application from the Choregraphe software (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" width="37" height="31" align="center" />) or by installing it directly on the robot (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" width="38" height="34" align="center" />) to launch it from the tablet, the robot crashes as soon as it executes a "choice" box (a block resembling that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" width="124" height="102" align="center" /> or that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" width="98" height="77" align="center" /> and allowing it to ask a question and answer orally). To remedy this problem, you must then double-click on the "choice" box, copy the text of the question, delete it, save, then paste the text of this question again, then save again. This procedure is illustrated in the screenshots below...
+__Warning:__ By cloning this project from git on the Choregraphe software, a minimal bug is to be noted: by launching the application from the Choregraphe software (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/1.PNG" width="37" height="31" align="center" />) or by installing it directly on the robot (button <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/2.PNG" width="38" height="34" align="center" />) to launch it from the tablet, the robot crashes as soon as it executes a choice box (a block resembling that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/3.PNG" width="124" height="102" align="center" /> or that <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4.PNG" width="98" height="77" align="center" /> and allowing it to ask a question and answer orally). To remedy this problem, you must then double-click on the choice box, copy the text of the question, delete it, save, then paste the text of this question again, then save again. This procedure is illustrated in the screenshots below...
 
 1. clone the project from GitHub on your computer,
 
@@ -120,7 +120,7 @@ __Warning:__ By cloning this project from git on the Choregraphe software, a min
 
 2. open the project on the Chorégraphe software (follow the screenshots below in order),
 
-3. click on the "choice" box in question (Here we will take the "Quel diplôme t'intéresse ?" one),
+3. click on the choice box in question (Here we will take the "Quel diplôme t'intéresse ?" one),
 
 <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth_1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/oth_1.PNG" width="104" height="125" align="center" />
 
@@ -138,7 +138,7 @@ So the following interface is displayed.
 
 <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/4_for_1.PNG" width="1128" height="738" align="center" />
 
-And here is the job ... the bug is solved as well 🐱. This operation must be repeated for all the "choice" boxes making up the application (8 in total).
+And here is the job ... the bug is solved as well 🐱. This operation must be repeated for all the choice boxes making up the application (8 in total).
 
 <a name="useful_links"></a>
 ## Useful links
