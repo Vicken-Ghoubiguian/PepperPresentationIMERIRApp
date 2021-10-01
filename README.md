@@ -143,5 +143,10 @@ And here is the job ... the bug is solved as well 🐱. This operation must be r
 <a name="useful_links"></a>
 ## Useful links
 
+* [IMERIR's official website](https://www.imerir.com/),
+* [Documentation about the Choregraphe software](http://www.lirmm.fr/~seriai/uploads/Enseignement/CHOREGRAPHE.pdf),
+* [Learn Choregraphe (for Pepper) - Level 1 - Introduction](https://www.youtube.com/watch?v=wSoGO1iL_v4&list=PLmXbV-2dNm40-19AfOc_0Ie_3hR-7nwMo),
+* [Learn Choregraphe (for Pepper) - Level 2 - Special Topics](https://www.youtube.com/watch?v=tqVbX5NWFdU&list=PLmXbV-2dNm43SH6HG88LALwFPs2TQIGpa),
+
 <a name="conclusion"></a>
 ## Conclusion
