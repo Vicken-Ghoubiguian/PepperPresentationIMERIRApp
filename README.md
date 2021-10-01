@@ -118,7 +118,7 @@ __Warning:__ By cloning this project from git on the Choregraphe software, a min
 
 <img src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/5.PNG" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/warnings/warning_1/5.PNG" width="609" height="24" align="center" />
 
-2. open the project on the Chorégraphe software (follow the screenshots below in order),
+2. open the project on the Chorégraphe software (Please refer to the section named [How to install it ?](#how_to_install_it)),
 
 3. click on the choice box in question (Here we will take the "Quel diplôme t'intéresse ?" one),
 
