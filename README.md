@@ -38,7 +38,7 @@ As shown in some photos below, the Pepper robot from IMERIR is emulated wherever
 
 This project consists to develop an application for the Pepper robot, to allow it to present the robotics and software engineering school named [IMERIR](https://www.imerir.com/). The presentation made by the robot is very complete and addresses all aspects of the school (small presentation, training, vocational education, Erasmus, graduation, alumni association...). This presentation of the school adopts a rigorous and complete organization thanks to the development (at the base) of the grafcet exposed below and which you can find [here](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/project_s_documentation/project_s_conception/Grafcet_of_IMERIR_presentation_app%20-%20final_version.png).
 
-<img src="project_s_documentation/images_to_display_in_github_repos/presentation/grafcet.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/presentation/grafcet.png" width="400" height="700" align="center" />
+<img src="project_s_documentation/images_to_display_in_github_repos/presentation/grafcet.png" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/presentation/grafcet.png" width="1720" height="794" align="center" />
 
 That's pretty cool... 🐱...
 
