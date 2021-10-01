@@ -36,6 +36,8 @@ As shown in some photos below, the Pepper robot from IMERIR is emulated wherever
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
 
+This project consists to develop an application for the Pepper robot, to allow it to present the robotics and software engineering school named [IMERIR](https://www.imerir.com/).
+
 <a name="application_s_definition"></a>
 ## Application's definition
 
