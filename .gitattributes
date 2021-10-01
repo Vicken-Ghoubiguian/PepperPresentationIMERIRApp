@@ -1,2 +1,1 @@
 *.xar linguist-language=Python
-final_result.3gp filter=lfs diff=lfs merge=lfs -text
