@@ -115,6 +115,9 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="how_to_stop_the_application"></a>
 ### How to stop the application ?
 
+<a name="each_answer_for_each_question"></a>
+### Each answer for each question
+
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
 
