@@ -34,6 +34,20 @@ This school has a humanoid robot known as Pepper. Initially manufactured and mar
 IMERIR uses the Pepper robot as the school mascot during various trade shows, meetings and professional forums focused on computer technologies and robotics as well as geek culture. 
 As shown in some photos below, the Pepper robot from IMERIR is emulated wherever it goes.
 
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/1.jpeg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/1.jpeg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/2.jpeg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/2.jpeg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/3.jpg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/3.jpg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/4.jpeg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/4.jpeg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/5.jpg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/5.jpg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/6.jpg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/6.jpg" width="200" height="200" align="center" />
+
+<img src="project_s_documentation/images_to_display_in_github_repos/introduction/7.jpg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/7.jpg" width="200" height="200" align="center" />
+
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
 
