@@ -50,7 +50,7 @@ As shown in some photos below, the Pepper robot from IMERIR is emulated wherever
 
 <img src="project_s_documentation/images_to_display_in_github_repos/introduction/8.jpg" data-canonical-src="project_s_documentation/images_to_display_in_github_repos/introduction/8.jpg" width="600" height="783" align="center" />
 
-<!--[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)-->
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/project_s_documentation/images_to_display_in_github_repos/introduction/mika_video.mp4)
 
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
