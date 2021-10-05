@@ -126,7 +126,7 @@ Let's go back to the interface shown above. In the table on the left, you must c
 <a name="result"></a>
 ## Result
 
-[![Final result]()](https://drive.google.com/file/d/1hlLouAGB8vXyBQcqV6g0pAuoxzXuEC5n/view)
+[![Final result](project_s_documentation/images_to_display_in_github_repos/result/1.png)](https://drive.google.com/file/d/1hlLouAGB8vXyBQcqV6g0pAuoxzXuEC5n/view)
 
 <a name="manual"></a>
 ## Manual
