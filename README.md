@@ -122,6 +122,9 @@ Let's go back to the interface shown above. In the table on the left, you must c
 
 4. Now is the time to install the application on the Pepper robot.
 
+<a name="result"></a>
+## Result
+
 <a name="manual"></a>
 ## Manual
 
