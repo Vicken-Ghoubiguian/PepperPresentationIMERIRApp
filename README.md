@@ -145,8 +145,12 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="how_to_start_the_application"></a>
 ### How to start the application ?
 
+
+
 <a name="how_to_stop_the_application"></a>
 ### How to stop the application ?
+
+
 
 <a name="each_answer_for_each_question"></a>
 ### Each answer for each question
