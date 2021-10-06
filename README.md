@@ -154,29 +154,29 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="first_question"></a>
 #### "Que veux-tu savoir sur notre établissement ?"
 
-- Other answer => box ""
+- Other answer => box "Message de remerciements, d'information et d'au revoir"
 
-- "IMERIR" => box ""
+- "IMERIR" => box "Qui sommes nous ?"
 
-- "formations" => box ""
+- "formations" => box "Nos formations"
 
-- "alternance" => box ""
+- "alternance" => box "L’alternance"
 
-- "professionnels" => box ""
+- "professionnels" => box "Professionnels"
 
-- "fablab" => box ""
+- "fablab" => box "Le Fablab"
 
-- "association des anciens" => box ""
+- "association des anciens" => box "Association des anciens"
 
-- "contact" => box ""
+- "contact" => box "Nous contacter"
 
-- "erasmus" => box ""
+- "erasmus" => box "Erasmus"
 
-- "diplôme" => box ""
+- "diplôme" => box "Remise des diplômes"
 
-- "admission" => box ""
+- "admission" => box "Admission"
 
-- "inscription" => box ""
+- "inscription" => box "S'inscrire"
 
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
