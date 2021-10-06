@@ -17,6 +17,14 @@ Application developed for the Pepper robot, manufactured and marketed by the com
     * [How to start the application ?](#how_to_start_the_application)
     * [How to stop the application ?](#how_to_stop_the_application)
     * [Each answer for each question](#each_answer_for_each_question).
+        * ["Que veux-tu savoir sur notre établissement ?"]()
+        * ["Quel diplôme t'intéresse ?"]()
+        * ["Comment souhaites-tu prendre contact avec nous ?"]()
+        * ["Veux-tu en savoir plusse ?"]()
+        * ["Souhaites-tu remplir le formulaire d'inscription ?"]()
+        * ["Souhaites-tu voir des photos et vidéos de cérémonies ?"]()
+        * ["L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"]()
+        * ["Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"]()
 10. [Issues and bugs](#issues_and_bugs),    
 11. [Useful links](#useful_links),
 12. [Conclusion](#conclusion).
@@ -163,6 +171,9 @@ So don't hesitate to take a look at it depending on the question you have, or th
 
 <a name="seventh_question"></a>
 #### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
+
+<a name="eighth_question"></a>
+#### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
 
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
