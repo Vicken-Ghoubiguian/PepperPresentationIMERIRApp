@@ -17,14 +17,14 @@ Application developed for the Pepper robot, manufactured and marketed by the com
     * [How to start the application ?](#how_to_start_the_application)
     * [How to stop the application ?](#how_to_stop_the_application)
     * [Each answer for each question](#each_answer_for_each_question).
-        * ["Que veux-tu savoir sur notre établissement ?"]()
-        * ["Quel diplôme t'intéresse ?"]()
-        * ["Comment souhaites-tu prendre contact avec nous ?"]()
-        * ["Veux-tu en savoir plusse ?"]()
-        * ["Souhaites-tu remplir le formulaire d'inscription ?"]()
-        * ["Souhaites-tu voir des photos et vidéos de cérémonies ?"]()
-        * ["L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"]()
-        * ["Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"]()
+        * ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+        * ["Quel diplôme t'intéresse ?"](#second_question)
+        * ["Comment souhaites-tu prendre contact avec nous ?"](#third_question)
+        * ["Veux-tu en savoir plusse ?"](#fourth_question)
+        * ["Souhaites-tu remplir le formulaire d'inscription ?"](#fifth_question)
+        * ["Souhaites-tu voir des photos et vidéos de cérémonies ?"](#sixth_question)
+        * ["L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"](#seventh_question)
+        * ["Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"](#eighth_question)
 10. [Issues and bugs](#issues_and_bugs),    
 11. [Useful links](#useful_links),
 12. [Conclusion](#conclusion).
