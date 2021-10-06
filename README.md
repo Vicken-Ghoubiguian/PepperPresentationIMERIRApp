@@ -172,6 +172,12 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="seventh_question"></a>
 #### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
 
+- [Other answer](#first_question)
+
+- "oui" => box "Sessions ARE (aide à la recherche d'entreprises)"
+
+- ["non"](#first_question)
+
 <a name="eighth_question"></a>
 #### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
 
