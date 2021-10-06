@@ -160,6 +160,18 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="third_question"></a>
 #### "Comment souhaites-tu prendre contact avec nous ?"
 
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "téléphone" => box "Numéro de téléphone"
+
+- "formulaire" => box "Formulaire"
+
+- "poste" => box "Adresse postale"
+
+- "réseaux sociaux" => box "Réseaux sociaux"
+
+- "i-mail" => box "Adresse email"
+
 <a name="fourth_question"></a>
 #### "Veux-tu en savoir plusse ?"
 
