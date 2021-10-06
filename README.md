@@ -187,39 +187,39 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "cybersécurité" => box "Cybersécurité"
+- "cybersécurité" => "Cybersécurité" box
 
-- "intelligence artificielle" => box "Intelligence artificielle"
+- "intelligence artificielle" => "Intelligence artificielle" box
 
-- "internet des objets" => box "Internet des objets"
+- "internet des objets" => "Internet des objets" box
 
-- "robotique" => box "Robotique d'innovation"
+- "robotique" => "Robotique d'innovation" box
 
-- "prépa" => box "prepa"
+- "prépa" => "prepa" box
 
-- "license" => box "License informatique option robotique de prototypage"
+- "license" => "License informatique option robotique de prototypage" box
 
 <a name="third_question"></a>
 #### "Comment souhaites-tu prendre contact avec nous ?"
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "téléphone" => box "Numéro de téléphone"
+- "téléphone" => "Numéro de téléphone" box
 
-- "formulaire" => box "Formulaire"
+- "formulaire" => "Formulaire" box
 
-- "poste" => box "Adresse postale"
+- "poste" => "Adresse postale" box
 
-- "réseaux sociaux" => box "Réseaux sociaux"
+- "réseaux sociaux" => "Réseaux sociaux" box
 
-- "i-mail" => box "Adresse email"
+- "i-mail" => "Adresse email" box
 
 <a name="fourth_question"></a>
 #### "Veux-tu en savoir plusse ?"
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "oui" => box "Informations supplémentaires sur le fablab"
+- "oui" => "Informations supplémentaires sur le fablab" box
 
 - "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
@@ -228,7 +228,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "oui" => box "Remplir le formulaire d'inscription et l'envoyer"
+- "oui" => "Remplir le formulaire d'inscription et l'envoyer" box
 
 - "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
@@ -237,7 +237,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "oui" => box "Remise des diplômes"
+- "oui" => "Remise des diplômes" box
 
 - "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
@@ -246,7 +246,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "oui" => box "Sessions ARE (aide à la recherche d'entreprises)"
+- "oui" => "Sessions ARE (aide à la recherche d'entreprises)" box
 
 - "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
@@ -255,7 +255,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 
 - "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
-- "partenaires" => box "Les universités et écoles partenaires de l'IMERIR"
+- "partenaires" => "Les universités et écoles partenaires de l'IMERIR" box
 
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
