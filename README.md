@@ -150,7 +150,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="how_to_stop_the_application"></a>
 ### How to stop the application ?
 
-
+To stop the application, you must be localized in the "Que veux-tu savoir sur notre établissement ?" question. To be located there, you can refer to the [application's grafcet](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/project_s_documentation/project_s_conception/Grafcet_of_IMERIR_presentation_app%20-%20final_version.png). You must then answer "stop" to this question, and the Pepper robot will state the message contained in the "Que veux-tu savoir sur notre établissement ?" box. And finally then, the application ends.
 
 <a name="each_answer_for_each_question"></a>
 ### Each answer for each question
