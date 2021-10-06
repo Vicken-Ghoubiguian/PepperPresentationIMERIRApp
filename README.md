@@ -158,29 +158,29 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 <a name="first_question"></a>
 #### "Que veux-tu savoir sur notre établissement ?"
 
-- "stop" => box "Message de remerciements, d'information et d'au revoir"
+- "stop" => "Message de remerciements, d'information et d'au revoir" box
 
-- "IMERIR" => box "Qui sommes nous ?"
+- "IMERIR" => "Qui sommes nous ?" box
 
-- "formations" => box "Nos formations"
+- "formations" => "Nos formations" box
 
-- "alternance" => box "L’alternance"
+- "alternance" => "L’alternance" box
 
-- "professionnels" => box "Professionnels"
+- "professionnels" => "Professionnels" box
 
-- "fablab" => box "Le Fablab"
+- "fablab" => "Le Fablab" box
 
-- "association des anciens" => box "Association des anciens"
+- "association des anciens" => "Association des anciens" box
 
-- "contact" => box "Nous contacter"
+- "contact" => "Nous contacter" box
 
-- "erasmus" => box "Erasmus"
+- "erasmus" => "Erasmus" box
 
-- "diplôme" => box "Remise des diplômes"
+- "diplôme" => "Remise des diplômes" box
 
-- "admission" => box "Admission"
+- "admission" => "Admission" box
 
-- "inscription" => box "S'inscrire"
+- "inscription" => "S'inscrire" box
 
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
