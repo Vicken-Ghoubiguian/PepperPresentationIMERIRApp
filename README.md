@@ -169,14 +169,20 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="sixth_question"></a>
 #### "Souhaites-tu voir des photos et vidéos de cérémonies ?"
 
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "oui" => box "Remise des diplômes"
+
+- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
 <a name="seventh_question"></a>
 #### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
 
-- [Other answer](#first_question)
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "oui" => box "Sessions ARE (aide à la recherche d'entreprises)"
 
-- ["non"](#first_question)
+- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 <a name="eighth_question"></a>
 #### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
