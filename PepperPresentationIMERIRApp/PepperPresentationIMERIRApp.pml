@@ -49,6 +49,7 @@
         <File name="ARE_image" src="html/images/ARE_image.png" />
         <File name="email_adress_image" src="html/images/email_adress_image.png" />
         <File name="social_network_image" src="html/images/social_network_image.png" />
+        <File name=".behavior.xar.40492" src="behavior_1/.behavior.xar.40492.csp" />
     </Resources>
     <Topics />
     <IgnoredPaths />

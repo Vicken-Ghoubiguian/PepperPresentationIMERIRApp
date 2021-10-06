@@ -154,7 +154,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="first_question"></a>
 #### "Que veux-tu savoir sur notre établissement ?"
 
-- Other answer => box "Message de remerciements, d'information et d'au revoir"
+- "stop" => box "Message de remerciements, d'information et d'au revoir"
 
 - "IMERIR" => box "Qui sommes nous ?"
 
@@ -181,7 +181,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "cybersécurité" => box "Cybersécurité"
 
@@ -198,7 +198,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="third_question"></a>
 #### "Comment souhaites-tu prendre contact avec nous ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "téléphone" => box "Numéro de téléphone"
 
@@ -213,7 +213,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="fourth_question"></a>
 #### "Veux-tu en savoir plusse ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "oui" => box "Informations supplémentaires sur le fablab"
 
@@ -222,7 +222,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="fifth_question"></a>
 #### "Souhaites-tu remplir le formulaire d'inscription ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "oui" => box "Remplir le formulaire d'inscription et l'envoyer"
 
@@ -231,7 +231,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="sixth_question"></a>
 #### "Souhaites-tu voir des photos et vidéos de cérémonies ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "oui" => box "Remise des diplômes"
 
@@ -240,7 +240,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="seventh_question"></a>
 #### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "oui" => box "Sessions ARE (aide à la recherche d'entreprises)"
 
@@ -249,7 +249,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="eighth_question"></a>
 #### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
 
-- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 - "partenaires" => box "Les universités et écoles partenaires de l'IMERIR"
 
