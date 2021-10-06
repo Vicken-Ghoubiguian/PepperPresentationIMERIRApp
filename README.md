@@ -157,6 +157,20 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
 
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "cybersécurité" => box "Cybersécurité"
+
+- "intelligence artificielle" => box "Intelligence artificielle"
+
+- "internet des objets" => box "Internet des objets"
+
+- "robotique" => box "Robotique d'innovation"
+
+- "prépa" => box "prepa"
+
+- "license" => box "License informatique option robotique de prototypage"
+
 <a name="third_question"></a>
 #### "Comment souhaites-tu prendre contact avec nous ?"
 
