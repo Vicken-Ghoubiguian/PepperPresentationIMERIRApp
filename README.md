@@ -163,8 +163,20 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="fourth_question"></a>
 #### "Veux-tu en savoir plusse ?"
 
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "oui" => box "Informations supplémentaires sur le fablab"
+
+- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
 <a name="fifth_question"></a>
 #### "Souhaites-tu remplir le formulaire d'inscription ?"
+
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "oui" => box "Remplir le formulaire d'inscription et l'envoyer"
+
+- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
 
 <a name="sixth_question"></a>
 #### "Souhaites-tu voir des photos et vidéos de cérémonies ?"
@@ -186,6 +198,10 @@ So don't hesitate to take a look at it depending on the question you have, or th
 
 <a name="eighth_question"></a>
 #### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
+
+- Other answer => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+
+- "partenaires" => box "Les universités et écoles partenaires de l'IMERIR"
 
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
