@@ -143,6 +143,27 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="each_answer_for_each_question"></a>
 ### Each answer for each question
 
+<a name="first_question"></a>
+#### "Que veux-tu savoir sur notre établissement ?"
+
+<a name="second_question"></a>
+#### "Quel diplôme t'intéresse ?"
+
+<a name="third_question"></a>
+#### "Comment souhaites-tu prendre contact avec nous ?"
+
+<a name="fourth_question"></a>
+#### "Veux-tu en savoir plusse ?"
+
+<a name="fifth_question"></a>
+#### "Souhaites-tu remplir le formulaire d'inscription ?"
+
+<a name="sixth_question"></a>
+#### "Souhaites-tu voir des photos et vidéos de cérémonies ?"
+
+<a name="seventh_question"></a>
+#### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
+
 <a name="issues_and_bugs"></a>
 ### Issues and bugs
 
