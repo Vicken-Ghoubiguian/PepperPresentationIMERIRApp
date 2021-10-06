@@ -185,7 +185,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "cybersécurité" => box "Cybersécurité"
 
@@ -202,7 +202,7 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 <a name="third_question"></a>
 #### "Comment souhaites-tu prendre contact avec nous ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "téléphone" => box "Numéro de téléphone"
 
@@ -217,43 +217,43 @@ To stop the application, you must be localized in the "Que veux-tu savoir sur no
 <a name="fourth_question"></a>
 #### "Veux-tu en savoir plusse ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "oui" => box "Informations supplémentaires sur le fablab"
 
-- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 <a name="fifth_question"></a>
 #### "Souhaites-tu remplir le formulaire d'inscription ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "oui" => box "Remplir le formulaire d'inscription et l'envoyer"
 
-- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 <a name="sixth_question"></a>
 #### "Souhaites-tu voir des photos et vidéos de cérémonies ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "oui" => box "Remise des diplômes"
 
-- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 <a name="seventh_question"></a>
 #### "L'IMÉRIR organise des sessions A R E; Veux-tu en savoir plusse ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "oui" => box "Sessions ARE (aide à la recherche d'entreprises)"
 
-- "non" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "non" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 <a name="eighth_question"></a>
 #### "Que veux-tu faire maintenant ? t'inscrire ? voir les partenaires ? ou rien ?"
 
-- "stop" => question ["Que veux-tu savoir sur notre établissement ?"](#first_question)
+- "stop" => ["Que veux-tu savoir sur notre établissement ?"](#first_question) question
 
 - "partenaires" => box "Les universités et écoles partenaires de l'IMERIR"
 
