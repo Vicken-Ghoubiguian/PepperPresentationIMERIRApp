@@ -154,7 +154,29 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="first_question"></a>
 #### "Que veux-tu savoir sur notre établissement ?"
 
+- Other answer => box ""
 
+- "IMERIR" => box ""
+
+- "formations" => box ""
+
+- "alternance" => box ""
+
+- "professionnels" => box ""
+
+- "fablab" => box ""
+
+- "association des anciens" => box ""
+
+- "contact" => box ""
+
+- "erasmus" => box ""
+
+- "diplôme" => box ""
+
+- "admission" => box ""
+
+- "inscription" => box ""
 
 <a name="second_question"></a>
 #### "Quel diplôme t'intéresse ?"
