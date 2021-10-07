@@ -139,7 +139,7 @@ Let's go back to the interface shown above. In the table on the left, you must c
 <a name="manual"></a>
 ## Manual
 
-This section is the user guide for the application. This section is the user guide for the application. All the questions you ask yourself about it are discussed there. 
+This section is the user guide for the application. All the questions you ask yourself about it are discussed there. 
 So don't hesitate to take a look at it depending on the question you have, or the problem you are having.
 
 <a name="how_to_start_the_application"></a>
