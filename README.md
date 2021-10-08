@@ -97,7 +97,7 @@ __warning__: this application works exclusively on Pepper robots running on the 
 ## How to install it ?
 
 Here, we will show you how to install the PepperPresentationIMERIRApp app on the Pepper robot. 
-The process is common to all the other applications to be installed on Pepper, running with version 2.5 of the NAOqi system. In addition, you can have just as ample information just here: https://github.com/Vicken-Ghoubiguian/pepperApplications#how_to_install_an_application_on_the_robot. So let's go...
+The process is common to all the other applications to be installed on Pepper, running with version 2.5 of the NAOqi system. So let's go...
 
 1. Please turn on the Pepper robot first;
 
@@ -131,7 +131,7 @@ Let's go back to the interface shown above. In the table on the left, you must c
 
 4. Now is the time to install the application on the Pepper robot.
 
-For more information, please refer to the Pepper robot user manual [just here](https://github.com/Vicken-Ghoubiguian/pepperApplications/raw/main/Manuel%20pour%20une%20prise%20en%20main%20rapide%20et%20efficiente%20du%20robot%20Pepper.pdf).
+For more information, please refer to the Pepper robot user manual [just here](https://github.com/Vicken-Ghoubiguian/pepperApplications/raw/main/Manuel%20pour%20une%20prise%20en%20main%20rapide%20et%20efficiente%20du%20robot%20Pepper.pdf) (in french). You can also have just as ample information just here: https://github.com/Vicken-Ghoubiguian/pepperApplications#how_to_install_an_application_on_the_robot.
 
 <a name="result"></a>
 ## Result
