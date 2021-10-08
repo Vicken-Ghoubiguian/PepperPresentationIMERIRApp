@@ -92,7 +92,7 @@ Coming soon...
 <a name="how_was_this_project_developed"></a>
 ## How was this project developed ?
 
-For more information about requirements and application's definition, you can consult the application's manifest file [just here](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/PepperPresentationIMERIRApp/manifest.xml).
+This application was developed exclusively for the version 2.5 of the Pepper's operating system NAOqi. For more information about requirements and application's definition, you can consult the application's manifest file [just here](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/PepperPresentationIMERIRApp/manifest.xml).
 
 <a name="project_s_components"></a>
 ## Project's components
