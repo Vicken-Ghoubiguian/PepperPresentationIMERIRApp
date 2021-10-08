@@ -92,6 +92,8 @@ Coming soon...
 <a name="how_was_this_project_developed"></a>
 ## How was this project developed ?
 
+Developed on version 2.5 of NAOqi, Pepper's operating system, this application was developed using the Choregraphe software. Until version 2.8 of NAOqi, and therefore the development of the Pepper SDK on Android studio, the control, management and development of the Pepper robot was done by this software. Below, you can observe the interface of the Choregraphe software.
+
 This application was developed exclusively for the version 2.5 of the Pepper's operating system NAOqi. For more information about requirements and application's definition, you can consult the application's manifest file [just here](https://github.com/Vicken-Ghoubiguian/PepperPresentationIMERIRApp/blob/main/PepperPresentationIMERIRApp/manifest.xml).
 
 <a name="project_s_components"></a>
