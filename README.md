@@ -131,6 +131,8 @@ Let's go back to the interface shown above. In the table on the left, you must c
 
 4. Now is the time to install the application on the Pepper robot.
 
+For more information, please refer to the Pepper robot user manual [just here](https://github.com/Vicken-Ghoubiguian/pepperApplications/raw/main/Manuel%20pour%20une%20prise%20en%20main%20rapide%20et%20efficiente%20du%20robot%20Pepper.pdf).
+
 <a name="result"></a>
 ## Result
 
