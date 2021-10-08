@@ -87,17 +87,17 @@ __warning__: this application works exclusively on Pepper robots running on the 
 <a name="git_repos_s_structure"></a>
 ## Git repos's structure
 
-Comming soon...
+Coming soon...
 
 <a name="how_was_this_project_developed"></a>
 ## How was this project developed ?
 
-Comming soon...
+Coming soon...
 
 <a name="project_s_components"></a>
 ## Project's components
 
-Comming soon...
+Coming soon...
 
 <a name="how_to_install_it"></a>
 ## How to install it ?
@@ -153,7 +153,7 @@ So don't hesitate to take a look at it depending on the question you have, or th
 <a name="how_to_start_the_application"></a>
 ### How to start the application ?
 
-Comming soon...
+Coming soon...
 
 <a name="how_to_stop_the_application"></a>
 ### How to stop the application ?
